@@ -1,0 +1,4002 @@
+[
+  {
+    "StudentId": "67",
+    "LectureId": "11",
+    "score": "4.78093502334363"
+  },
+  {
+    "StudentId": "67",
+    "LectureId": "20",
+    "score": "15.9816293963146"
+  },
+  {
+    "StudentId": "71",
+    "LectureId": "12",
+    "score": "19.7267444500359"
+  },
+  {
+    "StudentId": "54",
+    "LectureId": "21",
+    "score": "17.9924033847602"
+  },
+  {
+    "StudentId": "45",
+    "LectureId": "28",
+    "score": "5.87703039118882"
+  },
+  {
+    "StudentId": "29",
+    "LectureId": "23",
+    "score": "17.2741552569317"
+  },
+  {
+    "StudentId": "33",
+    "LectureId": "17",
+    "score": "19.7847217818651"
+  },
+  {
+    "StudentId": "91",
+    "LectureId": "13",
+    "score": "15.1053687106377"
+  },
+  {
+    "StudentId": "98",
+    "LectureId": "29",
+    "score": "6.97656358032327"
+  },
+  {
+    "StudentId": "48",
+    "LectureId": "25",
+    "score": "8.52833607025833"
+  },
+  {
+    "StudentId": "8",
+    "LectureId": "11",
+    "score": "5.2386910618463"
+  },
+  {
+    "StudentId": "61",
+    "LectureId": "2",
+    "score": "10.4958749918714"
+  },
+  {
+    "StudentId": "8",
+    "LectureId": "15",
+    "score": "4.17787497918023"
+  },
+  {
+    "StudentId": "60",
+    "LectureId": "23",
+    "score": "8.93975474636059"
+  },
+  {
+    "StudentId": "42",
+    "LectureId": "29",
+    "score": "9.1362996511796"
+  },
+  {
+    "StudentId": "66",
+    "LectureId": "30",
+    "score": "1.30930660074079"
+  },
+  {
+    "StudentId": "58",
+    "LectureId": "27",
+    "score": "14.5889203891107"
+  },
+  {
+    "StudentId": "33",
+    "LectureId": "27",
+    "score": "10.6353256458581"
+  },
+  {
+    "StudentId": "48",
+    "LectureId": "23",
+    "score": "16.9736529360403"
+  },
+  {
+    "StudentId": "47",
+    "LectureId": "20",
+    "score": "13.3158793641794"
+  },
+  {
+    "StudentId": "3",
+    "LectureId": "15",
+    "score": "14.4584502333116"
+  },
+  {
+    "StudentId": "18",
+    "LectureId": "19",
+    "score": "10.2589042546502"
+  },
+  {
+    "StudentId": "51",
+    "LectureId": "13",
+    "score": "11.539034541016"
+  },
+  {
+    "StudentId": "35",
+    "LectureId": "11",
+    "score": "17.1015253458645"
+  },
+  {
+    "StudentId": "24",
+    "LectureId": "29",
+    "score": "13.7271541928533"
+  },
+  {
+    "StudentId": "27",
+    "LectureId": "28",
+    "score": "3.19739486612258"
+  },
+  {
+    "StudentId": "93",
+    "LectureId": "19",
+    "score": "14.8454705741468"
+  },
+  {
+    "StudentId": "92",
+    "LectureId": "15",
+    "score": "9.77432203049507"
+  },
+  {
+    "StudentId": "28",
+    "LectureId": "6",
+    "score": "2.18306291996644"
+  },
+  {
+    "StudentId": "27",
+    "LectureId": "19",
+    "score": "2.98956898785642"
+  },
+  {
+    "StudentId": "39",
+    "LectureId": "15",
+    "score": "1.93390652161739"
+  },
+  {
+    "StudentId": "33",
+    "LectureId": "30",
+    "score": "5.16559800047688"
+  },
+  {
+    "StudentId": "89",
+    "LectureId": "22",
+    "score": "14.5257062486027"
+  },
+  {
+    "StudentId": "99",
+    "LectureId": "29",
+    "score": "0.105074256241822"
+  },
+  {
+    "StudentId": "32",
+    "LectureId": "16",
+    "score": "10.5896545642007"
+  },
+  {
+    "StudentId": "89",
+    "LectureId": "21",
+    "score": "6.05037048647663"
+  },
+  {
+    "StudentId": "93",
+    "LectureId": "24",
+    "score": "5.2117559389266"
+  },
+  {
+    "StudentId": "20",
+    "LectureId": "21",
+    "score": "16.6247464728657"
+  },
+  {
+    "StudentId": "81",
+    "LectureId": "21",
+    "score": "6.78425916320843"
+  },
+  {
+    "StudentId": "84",
+    "LectureId": "8",
+    "score": "17.9665195909173"
+  },
+  {
+    "StudentId": "31",
+    "LectureId": "17",
+    "score": "19.2230968923416"
+  },
+  {
+    "StudentId": "73",
+    "LectureId": "29",
+    "score": "15.350201478391"
+  },
+  {
+    "StudentId": "10",
+    "LectureId": "2",
+    "score": "17.7516615766807"
+  },
+  {
+    "StudentId": "10",
+    "LectureId": "17",
+    "score": "1.72765806164949"
+  },
+  {
+    "StudentId": "15",
+    "LectureId": "2",
+    "score": "0.547106469770477"
+  },
+  {
+    "StudentId": "71",
+    "LectureId": "4",
+    "score": "19.2112714137003"
+  },
+  {
+    "StudentId": "86",
+    "LectureId": "5",
+    "score": "14.3326841678157"
+  },
+  {
+    "StudentId": "59",
+    "LectureId": "9",
+    "score": "5.08245444022233"
+  },
+  {
+    "StudentId": "64",
+    "LectureId": "18",
+    "score": "5.36132621502566"
+  },
+  {
+    "StudentId": "70",
+    "LectureId": "5",
+    "score": "6.98868286888519"
+  },
+  {
+    "StudentId": "1",
+    "LectureId": "28",
+    "score": "2.19355202661527"
+  },
+  {
+    "StudentId": "81",
+    "LectureId": "4",
+    "score": "10.2728602896784"
+  },
+  {
+    "StudentId": "57",
+    "LectureId": "19",
+    "score": "12.8173585021018"
+  },
+  {
+    "StudentId": "23",
+    "LectureId": "11",
+    "score": "5.23550129227131"
+  },
+  {
+    "StudentId": "57",
+    "LectureId": "23",
+    "score": "7.61710442351974"
+  },
+  {
+    "StudentId": "23",
+    "LectureId": "14",
+    "score": "15.8270316383927"
+  },
+  {
+    "StudentId": "74",
+    "LectureId": "24",
+    "score": "2.54183310388673"
+  },
+  {
+    "StudentId": "26",
+    "LectureId": "23",
+    "score": "0.0357958702537212"
+  },
+  {
+    "StudentId": "70",
+    "LectureId": "2",
+    "score": "10.809513984625"
+  },
+  {
+    "StudentId": "95",
+    "LectureId": "24",
+    "score": "7.77685729496966"
+  },
+  {
+    "StudentId": "58",
+    "LectureId": "14",
+    "score": "15.9753840346706"
+  },
+  {
+    "StudentId": "63",
+    "LectureId": "14",
+    "score": "17.3150332264207"
+  },
+  {
+    "StudentId": "30",
+    "LectureId": "3",
+    "score": "15.9629663214846"
+  },
+  {
+    "StudentId": "75",
+    "LectureId": "22",
+    "score": "15.555074806118"
+  },
+  {
+    "StudentId": "15",
+    "LectureId": "10",
+    "score": "8.02708674921984"
+  },
+  {
+    "StudentId": "97",
+    "LectureId": "30",
+    "score": "0.837469539995058"
+  },
+  {
+    "StudentId": "59",
+    "LectureId": "19",
+    "score": "2.21190839456949"
+  },
+  {
+    "StudentId": "78",
+    "LectureId": "14",
+    "score": "5.79751277426142"
+  },
+  {
+    "StudentId": "34",
+    "LectureId": "18",
+    "score": "0.792995767105834"
+  },
+  {
+    "StudentId": "68",
+    "LectureId": "24",
+    "score": "3.30034914393926"
+  },
+  {
+    "StudentId": "93",
+    "LectureId": "25",
+    "score": "4.20993498955385"
+  },
+  {
+    "StudentId": "94",
+    "LectureId": "3",
+    "score": "5.99690081737791"
+  },
+  {
+    "StudentId": "26",
+    "LectureId": "30",
+    "score": "13.6581060037287"
+  },
+  {
+    "StudentId": "32",
+    "LectureId": "12",
+    "score": "16.5918136614337"
+  },
+  {
+    "StudentId": "42",
+    "LectureId": "28",
+    "score": "7.02733755951158"
+  },
+  {
+    "StudentId": "33",
+    "LectureId": "20",
+    "score": "10.8611983605014"
+  },
+  {
+    "StudentId": "76",
+    "LectureId": "30",
+    "score": "12.1685696985426"
+  },
+  {
+    "StudentId": "67",
+    "LectureId": "29",
+    "score": "17.3613386351435"
+  },
+  {
+    "StudentId": "10",
+    "LectureId": "6",
+    "score": "1.17783902221259"
+  },
+  {
+    "StudentId": "75",
+    "LectureId": "25",
+    "score": "17.5311831755243"
+  },
+  {
+    "StudentId": "32",
+    "LectureId": "5",
+    "score": "19.7864344314609"
+  },
+  {
+    "StudentId": "77",
+    "LectureId": "20",
+    "score": "9.97210397756291"
+  },
+  {
+    "StudentId": "78",
+    "LectureId": "14",
+    "score": "7.75719822419677"
+  },
+  {
+    "StudentId": "40",
+    "LectureId": "6",
+    "score": "19.2883790793309"
+  },
+  {
+    "StudentId": "26",
+    "LectureId": "12",
+    "score": "8.94573764966137"
+  },
+  {
+    "StudentId": "44",
+    "LectureId": "5",
+    "score": "6.29230629060991"
+  },
+  {
+    "StudentId": "12",
+    "LectureId": "10",
+    "score": "11.1747296797925"
+  },
+  {
+    "StudentId": "28",
+    "LectureId": "20",
+    "score": "16.6186337767256"
+  },
+  {
+    "StudentId": "3",
+    "LectureId": "26",
+    "score": "14.2123374590708"
+  },
+  {
+    "StudentId": "69",
+    "LectureId": "23",
+    "score": "1.13682976418027"
+  },
+  {
+    "StudentId": "52",
+    "LectureId": "20",
+    "score": "7.22374701137829"
+  },
+  {
+    "StudentId": "59",
+    "LectureId": "5",
+    "score": "19.9225086341251"
+  },
+  {
+    "StudentId": "18",
+    "LectureId": "25",
+    "score": "18.3702967936966"
+  },
+  {
+    "StudentId": "36",
+    "LectureId": "29",
+    "score": "1.20135778430913"
+  },
+  {
+    "StudentId": "79",
+    "LectureId": "21",
+    "score": "13.4757568880337"
+  },
+  {
+    "StudentId": "7",
+    "LectureId": "10",
+    "score": "13.1563125304674"
+  },
+  {
+    "StudentId": "60",
+    "LectureId": "23",
+    "score": "14.5480653692726"
+  },
+  {
+    "StudentId": "46",
+    "LectureId": "23",
+    "score": "11.5093227278019"
+  },
+  {
+    "StudentId": "30",
+    "LectureId": "10",
+    "score": "8.79291398161692"
+  },
+  {
+    "StudentId": "73",
+    "LectureId": "5",
+    "score": "13.0037341536971"
+  },
+  {
+    "StudentId": "34",
+    "LectureId": "20",
+    "score": "19.4677741809132"
+  },
+  {
+    "StudentId": "70",
+    "LectureId": "15",
+    "score": "5.07676853289677"
+  },
+  {
+    "StudentId": "76",
+    "LectureId": "16",
+    "score": "8.02643767605835"
+  },
+  {
+    "StudentId": "9",
+    "LectureId": "19",
+    "score": "1.22038533362578"
+  },
+  {
+    "StudentId": "95",
+    "LectureId": "8",
+    "score": "12.8440323643591"
+  },
+  {
+    "StudentId": "39",
+    "LectureId": "13",
+    "score": "9.41992955162187"
+  },
+  {
+    "StudentId": "21",
+    "LectureId": "13",
+    "score": "1.04867385609479"
+  },
+  {
+    "StudentId": "53",
+    "LectureId": "10",
+    "score": "9.68543559391305"
+  },
+  {
+    "StudentId": "96",
+    "LectureId": "21",
+    "score": "2.42075698609499"
+  },
+  {
+    "StudentId": "30",
+    "LectureId": "8",
+    "score": "8.12924500467686"
+  },
+  {
+    "StudentId": "49",
+    "LectureId": "20",
+    "score": "15.9518272704221"
+  },
+  {
+    "StudentId": "34",
+    "LectureId": "18",
+    "score": "8.68721480280497"
+  },
+  {
+    "StudentId": "24",
+    "LectureId": "7",
+    "score": "16.4963031148055"
+  },
+  {
+    "StudentId": "48",
+    "LectureId": "26",
+    "score": "12.9291070070719"
+  },
+  {
+    "StudentId": "18",
+    "LectureId": "18",
+    "score": "5.29771223026221"
+  },
+  {
+    "StudentId": "40",
+    "LectureId": "8",
+    "score": "11.4643753182443"
+  },
+  {
+    "StudentId": "4",
+    "LectureId": "23",
+    "score": "1.41956558377462"
+  },
+  {
+    "StudentId": "47",
+    "LectureId": "20",
+    "score": "18.7217196937286"
+  },
+  {
+    "StudentId": "78",
+    "LectureId": "16",
+    "score": "7.73408132546306"
+  },
+  {
+    "StudentId": "63",
+    "LectureId": "16",
+    "score": "1.63413949340309"
+  },
+  {
+    "StudentId": "98",
+    "LectureId": "13",
+    "score": "16.3205599288086"
+  },
+  {
+    "StudentId": "46",
+    "LectureId": "30",
+    "score": "4.11211418412259"
+  },
+  {
+    "StudentId": "5",
+    "LectureId": "7",
+    "score": "4.72611569926428"
+  },
+  {
+    "StudentId": "96",
+    "LectureId": "6",
+    "score": "14.2789786082129"
+  },
+  {
+    "StudentId": "11",
+    "LectureId": "11",
+    "score": "18.598123484104"
+  },
+  {
+    "StudentId": "51",
+    "LectureId": "2",
+    "score": "4.58162127089762"
+  },
+  {
+    "StudentId": "29",
+    "LectureId": "5",
+    "score": "14.9901059875219"
+  },
+  {
+    "StudentId": "50",
+    "LectureId": "27",
+    "score": "6.67036822376324"
+  },
+  {
+    "StudentId": "49",
+    "LectureId": "20",
+    "score": "6.00929920422346"
+  },
+  {
+    "StudentId": "40",
+    "LectureId": "8",
+    "score": "0.0582001214186662"
+  },
+  {
+    "StudentId": "53",
+    "LectureId": "29",
+    "score": "7.26831945323773"
+  },
+  {
+    "StudentId": "41",
+    "LectureId": "7",
+    "score": "15.6294213093954"
+  },
+  {
+    "StudentId": "76",
+    "LectureId": "4",
+    "score": "12.3049138129246"
+  },
+  {
+    "StudentId": "59",
+    "LectureId": "16",
+    "score": "2.9759451248571"
+  },
+  {
+    "StudentId": "18",
+    "LectureId": "8",
+    "score": "0.335192455600571"
+  },
+  {
+    "StudentId": "26",
+    "LectureId": "8",
+    "score": "12.1628919347017"
+  },
+  {
+    "StudentId": "90",
+    "LectureId": "18",
+    "score": "4.34284856465778"
+  },
+  {
+    "StudentId": "83",
+    "LectureId": "22",
+    "score": "17.8708586166011"
+  },
+  {
+    "StudentId": "31",
+    "LectureId": "26",
+    "score": "1.5628243789835"
+  },
+  {
+    "StudentId": "63",
+    "LectureId": "29",
+    "score": "3.09649816206493"
+  },
+  {
+    "StudentId": "37",
+    "LectureId": "4",
+    "score": "4.42546019350433"
+  },
+  {
+    "StudentId": "25",
+    "LectureId": "30",
+    "score": "1.00582284760001"
+  },
+  {
+    "StudentId": "50",
+    "LectureId": "11",
+    "score": "16.1664239080466"
+  },
+  {
+    "StudentId": "20",
+    "LectureId": "21",
+    "score": "15.3215620537855"
+  },
+  {
+    "StudentId": "34",
+    "LectureId": "8",
+    "score": "7.84271099690474"
+  },
+  {
+    "StudentId": "95",
+    "LectureId": "13",
+    "score": "15.0381505983128"
+  },
+  {
+    "StudentId": "20",
+    "LectureId": "24",
+    "score": "19.7352966804687"
+  },
+  {
+    "StudentId": "42",
+    "LectureId": "18",
+    "score": "6.2289694818803"
+  },
+  {
+    "StudentId": "7",
+    "LectureId": "29",
+    "score": "19.1772757136157"
+  },
+  {
+    "StudentId": "98",
+    "LectureId": "7",
+    "score": "18.9047811673511"
+  },
+  {
+    "StudentId": "49",
+    "LectureId": "8",
+    "score": "16.4977882753582"
+  },
+  {
+    "StudentId": "88",
+    "LectureId": "22",
+    "score": "13.6392293137681"
+  },
+  {
+    "StudentId": "7",
+    "LectureId": "23",
+    "score": "4.42276293664368"
+  },
+  {
+    "StudentId": "58",
+    "LectureId": "11",
+    "score": "2.95759284261502"
+  },
+  {
+    "StudentId": "29",
+    "LectureId": "7",
+    "score": "4.48856615623858"
+  },
+  {
+    "StudentId": "1",
+    "LectureId": "11",
+    "score": "11.9447507811453"
+  },
+  {
+    "StudentId": "99",
+    "LectureId": "19",
+    "score": "2.26140944252788"
+  },
+  {
+    "StudentId": "70",
+    "LectureId": "19",
+    "score": "6.14992271836378"
+  },
+  {
+    "StudentId": "30",
+    "LectureId": "15",
+    "score": "6.72944474766471"
+  },
+  {
+    "StudentId": "57",
+    "LectureId": "10",
+    "score": "3.47934447670325"
+  },
+  {
+    "StudentId": "9",
+    "LectureId": "12",
+    "score": "13.6804537352549"
+  },
+  {
+    "StudentId": "33",
+    "LectureId": "28",
+    "score": "12.7372425425505"
+  },
+  {
+    "StudentId": "79",
+    "LectureId": "2",
+    "score": "17.7920136362277"
+  },
+  {
+    "StudentId": "95",
+    "LectureId": "14",
+    "score": "17.1516773305608"
+  },
+  {
+    "StudentId": "64",
+    "LectureId": "27",
+    "score": "10.2816676983059"
+  },
+  {
+    "StudentId": "61",
+    "LectureId": "13",
+    "score": "18.4441569025834"
+  },
+  {
+    "StudentId": "40",
+    "LectureId": "4",
+    "score": "2.11858551163161"
+  },
+  {
+    "StudentId": "97",
+    "LectureId": "13",
+    "score": "7.99824930308305"
+  },
+  {
+    "StudentId": "5",
+    "LectureId": "23",
+    "score": "7.65271792730909"
+  },
+  {
+    "StudentId": "67",
+    "LectureId": "28",
+    "score": "12.0765656694195"
+  },
+  {
+    "StudentId": "95",
+    "LectureId": "12",
+    "score": "9.69594261641425"
+  },
+  {
+    "StudentId": "73",
+    "LectureId": "17",
+    "score": "3.87427154084401"
+  },
+  {
+    "StudentId": "56",
+    "LectureId": "7",
+    "score": "1.67700261840457"
+  },
+  {
+    "StudentId": "79",
+    "LectureId": "27",
+    "score": "17.6769675820493"
+  },
+  {
+    "StudentId": "42",
+    "LectureId": "8",
+    "score": "5.25722722069231"
+  },
+  {
+    "StudentId": "79",
+    "LectureId": "17",
+    "score": "15.3876339282783"
+  },
+  {
+    "StudentId": "62",
+    "LectureId": "27",
+    "score": "15.2025384554651"
+  },
+  {
+    "StudentId": "3",
+    "LectureId": "9",
+    "score": "9.7421697255886"
+  },
+  {
+    "StudentId": "28",
+    "LectureId": "14",
+    "score": "6.24505706422266"
+  },
+  {
+    "StudentId": "94",
+    "LectureId": "8",
+    "score": "14.8577519431048"
+  },
+  {
+    "StudentId": "88",
+    "LectureId": "9",
+    "score": "11.7788352639316"
+  },
+  {
+    "StudentId": "33",
+    "LectureId": "22",
+    "score": "4.17186950900213"
+  },
+  {
+    "StudentId": "88",
+    "LectureId": "22",
+    "score": "4.44021959343935"
+  },
+  {
+    "StudentId": "62",
+    "LectureId": "12",
+    "score": "5.42581113261441"
+  },
+  {
+    "StudentId": "60",
+    "LectureId": "4",
+    "score": "1.84780759776375"
+  },
+  {
+    "StudentId": "79",
+    "LectureId": "30",
+    "score": "17.3154013246835"
+  },
+  {
+    "StudentId": "71",
+    "LectureId": "11",
+    "score": "7.36863661015808"
+  },
+  {
+    "StudentId": "54",
+    "LectureId": "20",
+    "score": "14.1822889480657"
+  },
+  {
+    "StudentId": "52",
+    "LectureId": "14",
+    "score": "7.54487030373182"
+  },
+  {
+    "StudentId": "97",
+    "LectureId": "30",
+    "score": "1.91407554080434"
+  },
+  {
+    "StudentId": "68",
+    "LectureId": "18",
+    "score": "6.30115303131805"
+  },
+  {
+    "StudentId": "2",
+    "LectureId": "3",
+    "score": "2.92837716309744"
+  },
+  {
+    "StudentId": "15",
+    "LectureId": "28",
+    "score": "12.8710439553815"
+  },
+  {
+    "StudentId": "17",
+    "LectureId": "27",
+    "score": "1.8888659397554"
+  },
+  {
+    "StudentId": "40",
+    "LectureId": "8",
+    "score": "1.98260488732839"
+  },
+  {
+    "StudentId": "32",
+    "LectureId": "26",
+    "score": "12.2609538725861"
+  },
+  {
+    "StudentId": "99",
+    "LectureId": "3",
+    "score": "18.2074981565622"
+  },
+  {
+    "StudentId": "97",
+    "LectureId": "23",
+    "score": "9.62344693514679"
+  },
+  {
+    "StudentId": "2",
+    "LectureId": "6",
+    "score": "3.21557882857303"
+  },
+  {
+    "StudentId": "67",
+    "LectureId": "17",
+    "score": "6.67228395895673"
+  },
+  {
+    "StudentId": "23",
+    "LectureId": "15",
+    "score": "4.64451655868651"
+  },
+  {
+    "StudentId": "98",
+    "LectureId": "26",
+    "score": "0.656034962579624"
+  },
+  {
+    "StudentId": "36",
+    "LectureId": "16",
+    "score": "2.73271215741183"
+  },
+  {
+    "StudentId": "91",
+    "LectureId": "4",
+    "score": "11.8449860521802"
+  },
+  {
+    "StudentId": "95",
+    "LectureId": "3",
+    "score": "6.96254473783194"
+  },
+  {
+    "StudentId": "12",
+    "LectureId": "28",
+    "score": "19.4069946642998"
+  },
+  {
+    "StudentId": "45",
+    "LectureId": "2",
+    "score": "17.0066073113152"
+  },
+  {
+    "StudentId": "69",
+    "LectureId": "26",
+    "score": "4.85101525385446"
+  },
+  {
+    "StudentId": "93",
+    "LectureId": "13",
+    "score": "15.8491094744993"
+  },
+  {
+    "StudentId": "61",
+    "LectureId": "30",
+    "score": "5.13514981052612"
+  },
+  {
+    "StudentId": "4",
+    "LectureId": "9",
+    "score": "17.4910353224217"
+  },
+  {
+    "StudentId": "59",
+    "LectureId": "22",
+    "score": "14.9339137784829"
+  },
+  {
+    "StudentId": "56",
+    "LectureId": "11",
+    "score": "5.61661957745283"
+  },
+  {
+    "StudentId": "24",
+    "LectureId": "11",
+    "score": "11.3180102153299"
+  },
+  {
+    "StudentId": "52",
+    "LectureId": "25",
+    "score": "3.96717482617459"
+  },
+  {
+    "StudentId": "1",
+    "LectureId": "2",
+    "score": "19.5087341109797"
+  },
+  {
+    "StudentId": "27",
+    "LectureId": "10",
+    "score": "15.5262498112983"
+  },
+  {
+    "StudentId": "33",
+    "LectureId": "23",
+    "score": "4.96775758497778"
+  },
+  {
+    "StudentId": "78",
+    "LectureId": "7",
+    "score": "18.8550612841989"
+  },
+  {
+    "StudentId": "6",
+    "LectureId": "15",
+    "score": "16.7284461579884"
+  },
+  {
+    "StudentId": "31",
+    "LectureId": "28",
+    "score": "8.37426200573065"
+  },
+  {
+    "StudentId": "58",
+    "LectureId": "19",
+    "score": "12.5997807404957"
+  },
+  {
+    "StudentId": "84",
+    "LectureId": "14",
+    "score": "6.79282188731843"
+  },
+  {
+    "StudentId": "78",
+    "LectureId": "10",
+    "score": "2.02270121687218"
+  },
+  {
+    "StudentId": "31",
+    "LectureId": "11",
+    "score": "4.2979619308831"
+  },
+  {
+    "StudentId": "92",
+    "LectureId": "7",
+    "score": "12.809482239098"
+  },
+  {
+    "StudentId": "9",
+    "LectureId": "10",
+    "score": "16.0689150812425"
+  },
+  {
+    "StudentId": "41",
+    "LectureId": "22",
+    "score": "5.05669867110285"
+  },
+  {
+    "StudentId": "1",
+    "LectureId": "15",
+    "score": "13.0780144301606"
+  },
+  {
+    "StudentId": "56",
+    "LectureId": "18",
+    "score": "18.6740487439903"
+  },
+  {
+    "StudentId": "68",
+    "LectureId": "7",
+    "score": "13.8857366530624"
+  },
+  {
+    "StudentId": "42",
+    "LectureId": "14",
+    "score": "3.46962568232307"
+  },
+  {
+    "StudentId": "4",
+    "LectureId": "28",
+    "score": "10.7140664927261"
+  },
+  {
+    "StudentId": "24",
+    "LectureId": "17",
+    "score": "16.1314849872754"
+  },
+  {
+    "StudentId": "32",
+    "LectureId": "20",
+    "score": "5.28643524008171"
+  },
+  {
+    "StudentId": "76",
+    "LectureId": "17",
+    "score": "3.14378703392287"
+  },
+  {
+    "StudentId": "18",
+    "LectureId": "10",
+    "score": "15.317983432821"
+  },
+  {
+    "StudentId": "65",
+    "LectureId": "3",
+    "score": "9.719617702402"
+  },
+  {
+    "StudentId": "42",
+    "LectureId": "17",
+    "score": "12.7319792461265"
+  },
+  {
+    "StudentId": "49",
+    "LectureId": "23",
+    "score": "7.64651249938016"
+  },
+  {
+    "StudentId": "12",
+    "LectureId": "12",
+    "score": "0.504017495784917"
+  },
+  {
+    "StudentId": "15",
+    "LectureId": "17",
+    "score": "16.4855665608708"
+  },
+  {
+    "StudentId": "66",
+    "LectureId": "17",
+    "score": "15.9257147065018"
+  },
+  {
+    "StudentId": "30",
+    "LectureId": "20",
+    "score": "18.1434896402729"
+  },
+  {
+    "StudentId": "1",
+    "LectureId": "17",
+    "score": "14.1399996625911"
+  },
+  {
+    "StudentId": "65",
+    "LectureId": "27",
+    "score": "16.9826688710519"
+  },
+  {
+    "StudentId": "45",
+    "LectureId": "26",
+    "score": "5.6957137839383"
+  },
+  {
+    "StudentId": "90",
+    "LectureId": "4",
+    "score": "12.5888519322448"
+  },
+  {
+    "StudentId": "25",
+    "LectureId": "20",
+    "score": "3.39446416841562"
+  },
+  {
+    "StudentId": "51",
+    "LectureId": "21",
+    "score": "19.6299629004812"
+  },
+  {
+    "StudentId": "46",
+    "LectureId": "10",
+    "score": "13.1289747311403"
+  },
+  {
+    "StudentId": "29",
+    "LectureId": "17",
+    "score": "8.77767460782904"
+  },
+  {
+    "StudentId": "63",
+    "LectureId": "15",
+    "score": "14.9509604736003"
+  },
+  {
+    "StudentId": "2",
+    "LectureId": "9",
+    "score": "19.2520691963155"
+  },
+  {
+    "StudentId": "55",
+    "LectureId": "3",
+    "score": "1.31701222123439"
+  },
+  {
+    "StudentId": "25",
+    "LectureId": "5",
+    "score": "11.5949096784903"
+  },
+  {
+    "StudentId": "88",
+    "LectureId": "7",
+    "score": "13.6591900510989"
+  },
+  {
+    "StudentId": "47",
+    "LectureId": "17",
+    "score": "12.3189229701268"
+  },
+  {
+    "StudentId": "54",
+    "LectureId": "4",
+    "score": "13.3468696937649"
+  },
+  {
+    "StudentId": "21",
+    "LectureId": "21",
+    "score": "13.9136870442488"
+  },
+  {
+    "StudentId": "41",
+    "LectureId": "17",
+    "score": "1.43321114007067"
+  },
+  {
+    "StudentId": "34",
+    "LectureId": "21",
+    "score": "11.9919790090024"
+  },
+  {
+    "StudentId": "64",
+    "LectureId": "28",
+    "score": "16.4626782408276"
+  },
+  {
+    "StudentId": "63",
+    "LectureId": "21",
+    "score": "7.33969361397423"
+  },
+  {
+    "StudentId": "72",
+    "LectureId": "3",
+    "score": "4.11505930131071"
+  },
+  {
+    "StudentId": "85",
+    "LectureId": "24",
+    "score": "6.1141430009688"
+  },
+  {
+    "StudentId": "83",
+    "LectureId": "13",
+    "score": "8.93682647446954"
+  },
+  {
+    "StudentId": "57",
+    "LectureId": "20",
+    "score": "0.864581323165717"
+  },
+  {
+    "StudentId": "36",
+    "LectureId": "6",
+    "score": "18.7306582200018"
+  },
+  {
+    "StudentId": "6",
+    "LectureId": "6",
+    "score": "5.19936879035056"
+  },
+  {
+    "StudentId": "60",
+    "LectureId": "21",
+    "score": "0.549148110462887"
+  },
+  {
+    "StudentId": "67",
+    "LectureId": "6",
+    "score": "13.8655084156736"
+  },
+  {
+    "StudentId": "70",
+    "LectureId": "11",
+    "score": "12.153663964548"
+  },
+  {
+    "StudentId": "45",
+    "LectureId": "18",
+    "score": "1.64845807740859"
+  },
+  {
+    "StudentId": "21",
+    "LectureId": "29",
+    "score": "11.9343576179512"
+  },
+  {
+    "StudentId": "28",
+    "LectureId": "20",
+    "score": "8.99638483486901"
+  },
+  {
+    "StudentId": "87",
+    "LectureId": "30",
+    "score": "2.48537013935175"
+  },
+  {
+    "StudentId": "77",
+    "LectureId": "20",
+    "score": "5.5734882837038"
+  },
+  {
+    "StudentId": "80",
+    "LectureId": "3",
+    "score": "10.1638007462787"
+  },
+  {
+    "StudentId": "74",
+    "LectureId": "24",
+    "score": "8.66669098039469"
+  },
+  {
+    "StudentId": "72",
+    "LectureId": "17",
+    "score": "4.23315703274363"
+  },
+  {
+    "StudentId": "3",
+    "LectureId": "27",
+    "score": "8.7795062674114"
+  },
+  {
+    "StudentId": "9",
+    "LectureId": "9",
+    "score": "10.1076653688716"
+  },
+  {
+    "StudentId": "55",
+    "LectureId": "11",
+    "score": "18.9662967496395"
+  },
+  {
+    "StudentId": "27",
+    "LectureId": "2",
+    "score": "13.6963799855189"
+  },
+  {
+    "StudentId": "7",
+    "LectureId": "7",
+    "score": "1.04952688331228"
+  },
+  {
+    "StudentId": "6",
+    "LectureId": "3",
+    "score": "6.40150386486273"
+  },
+  {
+    "StudentId": "7",
+    "LectureId": "28",
+    "score": "18.4495950860202"
+  },
+  {
+    "StudentId": "51",
+    "LectureId": "28",
+    "score": "4.74164770298714"
+  },
+  {
+    "StudentId": "40",
+    "LectureId": "7",
+    "score": "19.9905767054253"
+  },
+  {
+    "StudentId": "56",
+    "LectureId": "11",
+    "score": "8.51346425270357"
+  },
+  {
+    "StudentId": "13",
+    "LectureId": "7",
+    "score": "0.488136984635208"
+  },
+  {
+    "StudentId": "13",
+    "LectureId": "17",
+    "score": "17.7287574739795"
+  },
+  {
+    "StudentId": "9",
+    "LectureId": "23",
+    "score": "12.513340600074"
+  },
+  {
+    "StudentId": "45",
+    "LectureId": "7",
+    "score": "3.97279915165752"
+  },
+  {
+    "StudentId": "54",
+    "LectureId": "2",
+    "score": "14.1848918023449"
+  },
+  {
+    "StudentId": "36",
+    "LectureId": "4",
+    "score": "11.6234257205499"
+  },
+  {
+    "StudentId": "11",
+    "LectureId": "7",
+    "score": "11.0844191220051"
+  },
+  {
+    "StudentId": "5",
+    "LectureId": "21",
+    "score": "2.73672991047461"
+  },
+  {
+    "StudentId": "80",
+    "LectureId": "18",
+    "score": "18.8824129434686"
+  },
+  {
+    "StudentId": "4",
+    "LectureId": "26",
+    "score": "5.51819869061848"
+  },
+  {
+    "StudentId": "1",
+    "LectureId": "7",
+    "score": "7.76732042793525"
+  },
+  {
+    "StudentId": "33",
+    "LectureId": "22",
+    "score": "5.20994158098937"
+  },
+  {
+    "StudentId": "1",
+    "LectureId": "30",
+    "score": "9.53977781512764"
+  },
+  {
+    "StudentId": "61",
+    "LectureId": "8",
+    "score": "3.05737208205153"
+  },
+  {
+    "StudentId": "58",
+    "LectureId": "13",
+    "score": "7.9492865600387"
+  },
+  {
+    "StudentId": "97",
+    "LectureId": "25",
+    "score": "13.4085716122801"
+  },
+  {
+    "StudentId": "60",
+    "LectureId": "27",
+    "score": "14.8673972389043"
+  },
+  {
+    "StudentId": "27",
+    "LectureId": "10",
+    "score": "18.6793296894428"
+  },
+  {
+    "StudentId": "74",
+    "LectureId": "7",
+    "score": "3.18431002469003"
+  },
+  {
+    "StudentId": "71",
+    "LectureId": "26",
+    "score": "5.39879026748184"
+  },
+  {
+    "StudentId": "88",
+    "LectureId": "12",
+    "score": "1.0457607312341"
+  },
+  {
+    "StudentId": "23",
+    "LectureId": "19",
+    "score": "2.58342527113083"
+  },
+  {
+    "StudentId": "42",
+    "LectureId": "27",
+    "score": "6.63307701965472"
+  },
+  {
+    "StudentId": "47",
+    "LectureId": "11",
+    "score": "10.1941652704003"
+  },
+  {
+    "StudentId": "49",
+    "LectureId": "29",
+    "score": "3.46040077202972"
+  },
+  {
+    "StudentId": "99",
+    "LectureId": "14",
+    "score": "18.7165113960935"
+  },
+  {
+    "StudentId": "6",
+    "LectureId": "24",
+    "score": "15.4147538027795"
+  },
+  {
+    "StudentId": "4",
+    "LectureId": "30",
+    "score": "6.74729300883938"
+  },
+  {
+    "StudentId": "10",
+    "LectureId": "30",
+    "score": "1.62022858141932"
+  },
+  {
+    "StudentId": "73",
+    "LectureId": "20",
+    "score": "3.00667482428564"
+  },
+  {
+    "StudentId": "74",
+    "LectureId": "5",
+    "score": "8.40386801930325"
+  },
+  {
+    "StudentId": "98",
+    "LectureId": "10",
+    "score": "4.41549128080508"
+  },
+  {
+    "StudentId": "66",
+    "LectureId": "30",
+    "score": "13.7588443950558"
+  },
+  {
+    "StudentId": "67",
+    "LectureId": "26",
+    "score": "8.45410820350708"
+  },
+  {
+    "StudentId": "42",
+    "LectureId": "12",
+    "score": "19.457363683012"
+  },
+  {
+    "StudentId": "80",
+    "LectureId": "22",
+    "score": "10.4515139802599"
+  },
+  {
+    "StudentId": "52",
+    "LectureId": "18",
+    "score": "10.4853559608969"
+  },
+  {
+    "StudentId": "26",
+    "LectureId": "28",
+    "score": "9.85215049230128"
+  },
+  {
+    "StudentId": "77",
+    "LectureId": "6",
+    "score": "14.8629539575721"
+  },
+  {
+    "StudentId": "98",
+    "LectureId": "17",
+    "score": "14.7479165469985"
+  },
+  {
+    "StudentId": "57",
+    "LectureId": "13",
+    "score": "15.0497143487678"
+  },
+  {
+    "StudentId": "28",
+    "LectureId": "19",
+    "score": "1.26385703508922"
+  },
+  {
+    "StudentId": "58",
+    "LectureId": "19",
+    "score": "4.37673410697688"
+  },
+  {
+    "StudentId": "65",
+    "LectureId": "22",
+    "score": "4.03108025343673"
+  },
+  {
+    "StudentId": "58",
+    "LectureId": "30",
+    "score": "17.4307708486127"
+  },
+  {
+    "StudentId": "77",
+    "LectureId": "22",
+    "score": "3.73722708678675"
+  },
+  {
+    "StudentId": "53",
+    "LectureId": "26",
+    "score": "19.5119554905742"
+  },
+  {
+    "StudentId": "12",
+    "LectureId": "17",
+    "score": "9.87689438223694"
+  },
+  {
+    "StudentId": "63",
+    "LectureId": "8",
+    "score": "17.4189647265798"
+  },
+  {
+    "StudentId": "95",
+    "LectureId": "16",
+    "score": "3.9291557329377"
+  },
+  {
+    "StudentId": "48",
+    "LectureId": "9",
+    "score": "18.6451767928177"
+  },
+  {
+    "StudentId": "71",
+    "LectureId": "4",
+    "score": "4.05070631348095"
+  },
+  {
+    "StudentId": "95",
+    "LectureId": "21",
+    "score": "5.99077668319958"
+  },
+  {
+    "StudentId": "65",
+    "LectureId": "10",
+    "score": "19.845179601966"
+  },
+  {
+    "StudentId": "23",
+    "LectureId": "2",
+    "score": "10.4347644073119"
+  },
+  {
+    "StudentId": "60",
+    "LectureId": "18",
+    "score": "2.03545855872122"
+  },
+  {
+    "StudentId": "15",
+    "LectureId": "11",
+    "score": "14.4084706233854"
+  },
+  {
+    "StudentId": "83",
+    "LectureId": "24",
+    "score": "1.08490294268583"
+  },
+  {
+    "StudentId": "82",
+    "LectureId": "29",
+    "score": "19.5078043711874"
+  },
+  {
+    "StudentId": "81",
+    "LectureId": "16",
+    "score": "0.445187538603874"
+  },
+  {
+    "StudentId": "64",
+    "LectureId": "29",
+    "score": "11.429229336525"
+  },
+  {
+    "StudentId": "27",
+    "LectureId": "15",
+    "score": "4.33262222601689"
+  },
+  {
+    "StudentId": "27",
+    "LectureId": "3",
+    "score": "3.93194029151087"
+  },
+  {
+    "StudentId": "97",
+    "LectureId": "23",
+    "score": "6.9104770649739"
+  },
+  {
+    "StudentId": "13",
+    "LectureId": "27",
+    "score": "10.3872051101118"
+  },
+  {
+    "StudentId": "34",
+    "LectureId": "25",
+    "score": "4.16305930314728"
+  },
+  {
+    "StudentId": "61",
+    "LectureId": "7",
+    "score": "3.69393657459595"
+  },
+  {
+    "StudentId": "35",
+    "LectureId": "15",
+    "score": "0.714058074035709"
+  },
+  {
+    "StudentId": "99",
+    "LectureId": "4",
+    "score": "15.6660434457781"
+  },
+  {
+    "StudentId": "1",
+    "LectureId": "22",
+    "score": "15.6628931321497"
+  },
+  {
+    "StudentId": "11",
+    "LectureId": "14",
+    "score": "2.78412012326723"
+  },
+  {
+    "StudentId": "59",
+    "LectureId": "6",
+    "score": "2.07871964018732"
+  },
+  {
+    "StudentId": "63",
+    "LectureId": "3",
+    "score": "7.94586900572566"
+  },
+  {
+    "StudentId": "1",
+    "LectureId": "20",
+    "score": "2.84473275525716"
+  },
+  {
+    "StudentId": "71",
+    "LectureId": "13",
+    "score": "16.0670659737974"
+  },
+  {
+    "StudentId": "31",
+    "LectureId": "17",
+    "score": "19.8058462505256"
+  },
+  {
+    "StudentId": "2",
+    "LectureId": "15",
+    "score": "18.8982088462907"
+  },
+  {
+    "StudentId": "94",
+    "LectureId": "21",
+    "score": "18.405027298911"
+  },
+  {
+    "StudentId": "10",
+    "LectureId": "26",
+    "score": "5.9217024459139"
+  },
+  {
+    "StudentId": "65",
+    "LectureId": "14",
+    "score": "11.4627332545178"
+  },
+  {
+    "StudentId": "9",
+    "LectureId": "4",
+    "score": "1.30242664101647"
+  },
+  {
+    "StudentId": "8",
+    "LectureId": "4",
+    "score": "14.3633612936192"
+  },
+  {
+    "StudentId": "96",
+    "LectureId": "29",
+    "score": "19.6066249262572"
+  },
+  {
+    "StudentId": "89",
+    "LectureId": "22",
+    "score": "7.57136846872576"
+  },
+  {
+    "StudentId": "43",
+    "LectureId": "11",
+    "score": "15.11375527322"
+  },
+  {
+    "StudentId": "22",
+    "LectureId": "8",
+    "score": "2.96862566562771"
+  },
+  {
+    "StudentId": "14",
+    "LectureId": "30",
+    "score": "16.1697936906339"
+  },
+  {
+    "StudentId": "35",
+    "LectureId": "7",
+    "score": "3.27907978570046"
+  },
+  {
+    "StudentId": "83",
+    "LectureId": "12",
+    "score": "19.2136763437715"
+  },
+  {
+    "StudentId": "47",
+    "LectureId": "21",
+    "score": "14.932924727878"
+  },
+  {
+    "StudentId": "77",
+    "LectureId": "18",
+    "score": "18.9934512381411"
+  },
+  {
+    "StudentId": "71",
+    "LectureId": "10",
+    "score": "10.3927507309209"
+  },
+  {
+    "StudentId": "48",
+    "LectureId": "22",
+    "score": "9.3221561286236"
+  },
+  {
+    "StudentId": "67",
+    "LectureId": "15",
+    "score": "4.87457234080628"
+  },
+  {
+    "StudentId": "95",
+    "LectureId": "4",
+    "score": "3.09752432354611"
+  },
+  {
+    "StudentId": "24",
+    "LectureId": "17",
+    "score": "0.779746860163168"
+  },
+  {
+    "StudentId": "76",
+    "LectureId": "21",
+    "score": "15.5404659065141"
+  },
+  {
+    "StudentId": "72",
+    "LectureId": "6",
+    "score": "2.74062141996837"
+  },
+  {
+    "StudentId": "60",
+    "LectureId": "26",
+    "score": "6.64283656451983"
+  },
+  {
+    "StudentId": "28",
+    "LectureId": "6",
+    "score": "5.83905313808427"
+  },
+  {
+    "StudentId": "47",
+    "LectureId": "15",
+    "score": "13.637207009195"
+  },
+  {
+    "StudentId": "69",
+    "LectureId": "27",
+    "score": "12.3731707503894"
+  },
+  {
+    "StudentId": "11",
+    "LectureId": "5",
+    "score": "5.37235596933046"
+  },
+  {
+    "StudentId": "52",
+    "LectureId": "20",
+    "score": "13.2394266795551"
+  },
+  {
+    "StudentId": "56",
+    "LectureId": "6",
+    "score": "4.03902139795898"
+  },
+  {
+    "StudentId": "52",
+    "LectureId": "30",
+    "score": "13.3422373115747"
+  },
+  {
+    "StudentId": "61",
+    "LectureId": "23",
+    "score": "14.8342062704424"
+  },
+  {
+    "StudentId": "12",
+    "LectureId": "19",
+    "score": "11.8180678434754"
+  },
+  {
+    "StudentId": "83",
+    "LectureId": "11",
+    "score": "12.7801390671079"
+  },
+  {
+    "StudentId": "85",
+    "LectureId": "12",
+    "score": "1.89429939300488"
+  },
+  {
+    "StudentId": "7",
+    "LectureId": "13",
+    "score": "8.61813049885357"
+  },
+  {
+    "StudentId": "88",
+    "LectureId": "23",
+    "score": "4.97510696946415"
+  },
+  {
+    "StudentId": "14",
+    "LectureId": "4",
+    "score": "1.1298588319355"
+  },
+  {
+    "StudentId": "91",
+    "LectureId": "8",
+    "score": "6.50589373405366"
+  },
+  {
+    "StudentId": "78",
+    "LectureId": "11",
+    "score": "0.937193953868558"
+  },
+  {
+    "StudentId": "15",
+    "LectureId": "24",
+    "score": "5.50060815387434"
+  },
+  {
+    "StudentId": "51",
+    "LectureId": "14",
+    "score": "10.1943970118623"
+  },
+  {
+    "StudentId": "1",
+    "LectureId": "28",
+    "score": "7.18154066669826"
+  },
+  {
+    "StudentId": "7",
+    "LectureId": "11",
+    "score": "19.1165635875038"
+  },
+  {
+    "StudentId": "53",
+    "LectureId": "3",
+    "score": "9.87781750824201"
+  },
+  {
+    "StudentId": "53",
+    "LectureId": "23",
+    "score": "13.0170978787435"
+  },
+  {
+    "StudentId": "52",
+    "LectureId": "15",
+    "score": "18.6183969223026"
+  },
+  {
+    "StudentId": "1",
+    "LectureId": "5",
+    "score": "19.5056815908783"
+  },
+  {
+    "StudentId": "35",
+    "LectureId": "6",
+    "score": "14.2852121159831"
+  },
+  {
+    "StudentId": "15",
+    "LectureId": "29",
+    "score": "2.45087220587343"
+  },
+  {
+    "StudentId": "20",
+    "LectureId": "2",
+    "score": "19.2199486150499"
+  },
+  {
+    "StudentId": "71",
+    "LectureId": "28",
+    "score": "1.57135734500892"
+  },
+  {
+    "StudentId": "24",
+    "LectureId": "7",
+    "score": "19.7365547389428"
+  },
+  {
+    "StudentId": "88",
+    "LectureId": "6",
+    "score": "8.40879785614498"
+  },
+  {
+    "StudentId": "8",
+    "LectureId": "8",
+    "score": "19.0487474142801"
+  },
+  {
+    "StudentId": "53",
+    "LectureId": "28",
+    "score": "3.88707051793443"
+  },
+  {
+    "StudentId": "92",
+    "LectureId": "27",
+    "score": "16.9129878934068"
+  },
+  {
+    "StudentId": "59",
+    "LectureId": "22",
+    "score": "19.6015434160836"
+  },
+  {
+    "StudentId": "94",
+    "LectureId": "2",
+    "score": "13.5089576516808"
+  },
+  {
+    "StudentId": "77",
+    "LectureId": "15",
+    "score": "6.61726132063999"
+  },
+  {
+    "StudentId": "40",
+    "LectureId": "11",
+    "score": "7.80617051329751"
+  },
+  {
+    "StudentId": "15",
+    "LectureId": "9",
+    "score": "12.1978123039928"
+  },
+  {
+    "StudentId": "75",
+    "LectureId": "11",
+    "score": "4.90871100263144"
+  },
+  {
+    "StudentId": "95",
+    "LectureId": "3",
+    "score": "18.2797170380502"
+  },
+  {
+    "StudentId": "84",
+    "LectureId": "4",
+    "score": "5.82517442518155"
+  },
+  {
+    "StudentId": "7",
+    "LectureId": "6",
+    "score": "19.5487580353156"
+  },
+  {
+    "StudentId": "24",
+    "LectureId": "12",
+    "score": "15.8845210126063"
+  },
+  {
+    "StudentId": "47",
+    "LectureId": "27",
+    "score": "12.6020128669227"
+  },
+  {
+    "StudentId": "93",
+    "LectureId": "12",
+    "score": "13.1898202668828"
+  },
+  {
+    "StudentId": "54",
+    "LectureId": "13",
+    "score": "14.6673474384785"
+  },
+  {
+    "StudentId": "27",
+    "LectureId": "20",
+    "score": "3.25874240894743"
+  },
+  {
+    "StudentId": "49",
+    "LectureId": "3",
+    "score": "12.8878647321313"
+  },
+  {
+    "StudentId": "8",
+    "LectureId": "13",
+    "score": "13.6899755525822"
+  },
+  {
+    "StudentId": "18",
+    "LectureId": "15",
+    "score": "10.2439188460093"
+  },
+  {
+    "StudentId": "36",
+    "LectureId": "26",
+    "score": "11.7764280656243"
+  },
+  {
+    "StudentId": "47",
+    "LectureId": "23",
+    "score": "14.8544893361882"
+  },
+  {
+    "StudentId": "70",
+    "LectureId": "19",
+    "score": "19.5910152655984"
+  },
+  {
+    "StudentId": "41",
+    "LectureId": "23",
+    "score": "14.4588108116103"
+  },
+  {
+    "StudentId": "34",
+    "LectureId": "20",
+    "score": "11.4344809974704"
+  },
+  {
+    "StudentId": "98",
+    "LectureId": "22",
+    "score": "1.1731229145886"
+  },
+  {
+    "StudentId": "72",
+    "LectureId": "28",
+    "score": "16.0669741300247"
+  },
+  {
+    "StudentId": "23",
+    "LectureId": "29",
+    "score": "8.44944649490036"
+  },
+  {
+    "StudentId": "81",
+    "LectureId": "13",
+    "score": "16.711072234768"
+  },
+  {
+    "StudentId": "80",
+    "LectureId": "29",
+    "score": "4.53487013538129"
+  },
+  {
+    "StudentId": "90",
+    "LectureId": "11",
+    "score": "11.8822500528219"
+  },
+  {
+    "StudentId": "9",
+    "LectureId": "3",
+    "score": "9.34703167683772"
+  },
+  {
+    "StudentId": "66",
+    "LectureId": "8",
+    "score": "6.55255194825705"
+  },
+  {
+    "StudentId": "92",
+    "LectureId": "5",
+    "score": "5.64132542518961"
+  },
+  {
+    "StudentId": "76",
+    "LectureId": "13",
+    "score": "1.56090216131923"
+  },
+  {
+    "StudentId": "92",
+    "LectureId": "21",
+    "score": "12.7519885556549"
+  },
+  {
+    "StudentId": "19",
+    "LectureId": "17",
+    "score": "15.997990640345"
+  },
+  {
+    "StudentId": "90",
+    "LectureId": "2",
+    "score": "13.3781376128914"
+  },
+  {
+    "StudentId": "43",
+    "LectureId": "2",
+    "score": "10.677928279004"
+  },
+  {
+    "StudentId": "16",
+    "LectureId": "7",
+    "score": "1.66448928027623"
+  },
+  {
+    "StudentId": "42",
+    "LectureId": "15",
+    "score": "8.0128144570686"
+  },
+  {
+    "StudentId": "60",
+    "LectureId": "27",
+    "score": "10.7027125622624"
+  },
+  {
+    "StudentId": "16",
+    "LectureId": "7",
+    "score": "18.407249785218"
+  },
+  {
+    "StudentId": "91",
+    "LectureId": "20",
+    "score": "12.2445226727261"
+  },
+  {
+    "StudentId": "68",
+    "LectureId": "25",
+    "score": "13.5554381415972"
+  },
+  {
+    "StudentId": "28",
+    "LectureId": "16",
+    "score": "8.63233579026178"
+  },
+  {
+    "StudentId": "56",
+    "LectureId": "30",
+    "score": "2.90161943617352"
+  },
+  {
+    "StudentId": "58",
+    "LectureId": "18",
+    "score": "9.58585201976162"
+  },
+  {
+    "StudentId": "31",
+    "LectureId": "13",
+    "score": "2.47184062724553"
+  },
+  {
+    "StudentId": "26",
+    "LectureId": "19",
+    "score": "3.31491710632803"
+  },
+  {
+    "StudentId": "1",
+    "LectureId": "4",
+    "score": "16.715499579774"
+  },
+  {
+    "StudentId": "9",
+    "LectureId": "9",
+    "score": "9.78449845164293"
+  },
+  {
+    "StudentId": "42",
+    "LectureId": "10",
+    "score": "19.3503892679468"
+  },
+  {
+    "StudentId": "48",
+    "LectureId": "17",
+    "score": "7.93715824509839"
+  },
+  {
+    "StudentId": "2",
+    "LectureId": "24",
+    "score": "9.6287428059749"
+  },
+  {
+    "StudentId": "74",
+    "LectureId": "20",
+    "score": "2.57443925206291"
+  },
+  {
+    "StudentId": "70",
+    "LectureId": "12",
+    "score": "1.5193215503913"
+  },
+  {
+    "StudentId": "50",
+    "LectureId": "5",
+    "score": "19.0618486511809"
+  },
+  {
+    "StudentId": "65",
+    "LectureId": "13",
+    "score": "11.2084264807442"
+  },
+  {
+    "StudentId": "64",
+    "LectureId": "23",
+    "score": "10.3150910610869"
+  },
+  {
+    "StudentId": "50",
+    "LectureId": "11",
+    "score": "9.30140854618578"
+  },
+  {
+    "StudentId": "58",
+    "LectureId": "5",
+    "score": "2.77510864323709"
+  },
+  {
+    "StudentId": "1",
+    "LectureId": "7",
+    "score": "9.48351512964979"
+  },
+  {
+    "StudentId": "17",
+    "LectureId": "17",
+    "score": "11.3792937599957"
+  },
+  {
+    "StudentId": "95",
+    "LectureId": "9",
+    "score": "0.72488208567951"
+  },
+  {
+    "StudentId": "15",
+    "LectureId": "29",
+    "score": "5.28234346130972"
+  },
+  {
+    "StudentId": "30",
+    "LectureId": "29",
+    "score": "13.0970400884268"
+  },
+  {
+    "StudentId": "98",
+    "LectureId": "7",
+    "score": "5.28606803961381"
+  },
+  {
+    "StudentId": "23",
+    "LectureId": "6",
+    "score": "2.39989981586109"
+  },
+  {
+    "StudentId": "14",
+    "LectureId": "25",
+    "score": "19.5733085463631"
+  },
+  {
+    "StudentId": "26",
+    "LectureId": "11",
+    "score": "10.3000646430534"
+  },
+  {
+    "StudentId": "67",
+    "LectureId": "16",
+    "score": "17.1301361853863"
+  },
+  {
+    "StudentId": "81",
+    "LectureId": "7",
+    "score": "5.36685239587298"
+  },
+  {
+    "StudentId": "72",
+    "LectureId": "25",
+    "score": "3.55157892152275"
+  },
+  {
+    "StudentId": "6",
+    "LectureId": "7",
+    "score": "0.643088575286366"
+  },
+  {
+    "StudentId": "44",
+    "LectureId": "2",
+    "score": "15.8326113437454"
+  },
+  {
+    "StudentId": "90",
+    "LectureId": "6",
+    "score": "5.02616384486955"
+  },
+  {
+    "StudentId": "40",
+    "LectureId": "7",
+    "score": "4.13845943619425"
+  },
+  {
+    "StudentId": "28",
+    "LectureId": "14",
+    "score": "9.82459081561518"
+  },
+  {
+    "StudentId": "44",
+    "LectureId": "30",
+    "score": "12.7910847756039"
+  },
+  {
+    "StudentId": "4",
+    "LectureId": "18",
+    "score": "5.80833843201787"
+  },
+  {
+    "StudentId": "92",
+    "LectureId": "29",
+    "score": "11.4015431205749"
+  },
+  {
+    "StudentId": "97",
+    "LectureId": "18",
+    "score": "6.93581504558018"
+  },
+  {
+    "StudentId": "81",
+    "LectureId": "12",
+    "score": "2.24682722624709"
+  },
+  {
+    "StudentId": "53",
+    "LectureId": "21",
+    "score": "7.5041441258528"
+  },
+  {
+    "StudentId": "25",
+    "LectureId": "27",
+    "score": "14.6378828075891"
+  },
+  {
+    "StudentId": "93",
+    "LectureId": "5",
+    "score": "1.28126118252113"
+  },
+  {
+    "StudentId": "35",
+    "LectureId": "11",
+    "score": "2.0775291826937"
+  },
+  {
+    "StudentId": "60",
+    "LectureId": "8",
+    "score": "12.8712979182002"
+  },
+  {
+    "StudentId": "72",
+    "LectureId": "30",
+    "score": "18.9715347206087"
+  },
+  {
+    "StudentId": "60",
+    "LectureId": "26",
+    "score": "1.82085362440946"
+  },
+  {
+    "StudentId": "83",
+    "LectureId": "10",
+    "score": "6.92456213148523"
+  },
+  {
+    "StudentId": "30",
+    "LectureId": "8",
+    "score": "5.75764761807288"
+  },
+  {
+    "StudentId": "58",
+    "LectureId": "4",
+    "score": "10.1677703029326"
+  },
+  {
+    "StudentId": "83",
+    "LectureId": "20",
+    "score": "17.806293683502"
+  },
+  {
+    "StudentId": "84",
+    "LectureId": "10",
+    "score": "0.626523200714273"
+  },
+  {
+    "StudentId": "46",
+    "LectureId": "9",
+    "score": "6.59573279907728"
+  },
+  {
+    "StudentId": "75",
+    "LectureId": "9",
+    "score": "10.5441983163097"
+  },
+  {
+    "StudentId": "77",
+    "LectureId": "14",
+    "score": "18.3886663095973"
+  },
+  {
+    "StudentId": "81",
+    "LectureId": "28",
+    "score": "16.6275497314648"
+  },
+  {
+    "StudentId": "78",
+    "LectureId": "6",
+    "score": "19.1294218116111"
+  },
+  {
+    "StudentId": "5",
+    "LectureId": "12",
+    "score": "9.49446580302644"
+  },
+  {
+    "StudentId": "67",
+    "LectureId": "14",
+    "score": "0.0735574653714697"
+  },
+  {
+    "StudentId": "11",
+    "LectureId": "5",
+    "score": "2.3167822874695"
+  },
+  {
+    "StudentId": "81",
+    "LectureId": "14",
+    "score": "7.57031156521771"
+  },
+  {
+    "StudentId": "96",
+    "LectureId": "23",
+    "score": "3.03472504533582"
+  },
+  {
+    "StudentId": "70",
+    "LectureId": "23",
+    "score": "19.160456924774"
+  },
+  {
+    "StudentId": "20",
+    "LectureId": "6",
+    "score": "7.91997285369782"
+  },
+  {
+    "StudentId": "84",
+    "LectureId": "9",
+    "score": "0.675784349290554"
+  },
+  {
+    "StudentId": "31",
+    "LectureId": "28",
+    "score": "11.1051110122842"
+  },
+  {
+    "StudentId": "77",
+    "LectureId": "26",
+    "score": "18.3114617119131"
+  },
+  {
+    "StudentId": "23",
+    "LectureId": "15",
+    "score": "8.6630041062194"
+  },
+  {
+    "StudentId": "30",
+    "LectureId": "18",
+    "score": "11.3856488575161"
+  },
+  {
+    "StudentId": "55",
+    "LectureId": "8",
+    "score": "13.0549695585179"
+  },
+  {
+    "StudentId": "98",
+    "LectureId": "29",
+    "score": "8.29678599922768"
+  },
+  {
+    "StudentId": "37",
+    "LectureId": "11",
+    "score": "5.51285894238989"
+  },
+  {
+    "StudentId": "9",
+    "LectureId": "5",
+    "score": "4.86103933251511"
+  },
+  {
+    "StudentId": "9",
+    "LectureId": "15",
+    "score": "0.889359044325239"
+  },
+  {
+    "StudentId": "85",
+    "LectureId": "9",
+    "score": "15.1208210578751"
+  },
+  {
+    "StudentId": "80",
+    "LectureId": "27",
+    "score": "16.246805303845"
+  },
+  {
+    "StudentId": "32",
+    "LectureId": "11",
+    "score": "17.6180703503164"
+  },
+  {
+    "StudentId": "58",
+    "LectureId": "30",
+    "score": "7.60860280581219"
+  },
+  {
+    "StudentId": "59",
+    "LectureId": "29",
+    "score": "13.3591754820008"
+  },
+  {
+    "StudentId": "49",
+    "LectureId": "10",
+    "score": "14.4391622140255"
+  },
+  {
+    "StudentId": "55",
+    "LectureId": "13",
+    "score": "4.10720895654858"
+  },
+  {
+    "StudentId": "22",
+    "LectureId": "18",
+    "score": "11.8409323277143"
+  },
+  {
+    "StudentId": "57",
+    "LectureId": "22",
+    "score": "10.299296094244"
+  },
+  {
+    "StudentId": "44",
+    "LectureId": "17",
+    "score": "4.12375699082564"
+  },
+  {
+    "StudentId": "14",
+    "LectureId": "7",
+    "score": "19.040702978168"
+  },
+  {
+    "StudentId": "47",
+    "LectureId": "21",
+    "score": "18.1167818778738"
+  },
+  {
+    "StudentId": "75",
+    "LectureId": "20",
+    "score": "5.12164292769583"
+  },
+  {
+    "StudentId": "76",
+    "LectureId": "20",
+    "score": "8.56944472415812"
+  },
+  {
+    "StudentId": "52",
+    "LectureId": "12",
+    "score": "11.3925798150676"
+  },
+  {
+    "StudentId": "64",
+    "LectureId": "22",
+    "score": "0.742326483941789"
+  },
+  {
+    "StudentId": "75",
+    "LectureId": "2",
+    "score": "0.885715814254114"
+  },
+  {
+    "StudentId": "43",
+    "LectureId": "3",
+    "score": "3.04531581888223"
+  },
+  {
+    "StudentId": "71",
+    "LectureId": "18",
+    "score": "4.30390901644896"
+  },
+  {
+    "StudentId": "30",
+    "LectureId": "22",
+    "score": "19.8773102466377"
+  },
+  {
+    "StudentId": "48",
+    "LectureId": "5",
+    "score": "7.59949141116789"
+  },
+  {
+    "StudentId": "30",
+    "LectureId": "15",
+    "score": "1.92064089464054"
+  },
+  {
+    "StudentId": "29",
+    "LectureId": "29",
+    "score": "15.0745040499952"
+  },
+  {
+    "StudentId": "97",
+    "LectureId": "26",
+    "score": "9.43680606057719"
+  },
+  {
+    "StudentId": "16",
+    "LectureId": "8",
+    "score": "5.44178178973579"
+  },
+  {
+    "StudentId": "63",
+    "LectureId": "3",
+    "score": "13.6848876796127"
+  },
+  {
+    "StudentId": "45",
+    "LectureId": "8",
+    "score": "8.20444959318472"
+  },
+  {
+    "StudentId": "43",
+    "LectureId": "4",
+    "score": "5.81881142538917"
+  },
+  {
+    "StudentId": "39",
+    "LectureId": "22",
+    "score": "18.5266301820644"
+  },
+  {
+    "StudentId": "35",
+    "LectureId": "14",
+    "score": "8.29394749006906"
+  },
+  {
+    "StudentId": "95",
+    "LectureId": "5",
+    "score": "11.4672783219569"
+  },
+  {
+    "StudentId": "29",
+    "LectureId": "4",
+    "score": "1.85871613717578"
+  },
+  {
+    "StudentId": "8",
+    "LectureId": "24",
+    "score": "2.06299283917201"
+  },
+  {
+    "StudentId": "41",
+    "LectureId": "17",
+    "score": "4.42636961370072"
+  },
+  {
+    "StudentId": "43",
+    "LectureId": "21",
+    "score": "3.06985156613861"
+  },
+  {
+    "StudentId": "5",
+    "LectureId": "27",
+    "score": "9.19224286134925"
+  },
+  {
+    "StudentId": "69",
+    "LectureId": "29",
+    "score": "13.2808156429235"
+  },
+  {
+    "StudentId": "94",
+    "LectureId": "29",
+    "score": "1.73258061275472"
+  },
+  {
+    "StudentId": "79",
+    "LectureId": "30",
+    "score": "9.50429070904119"
+  },
+  {
+    "StudentId": "45",
+    "LectureId": "8",
+    "score": "8.34899212808767"
+  },
+  {
+    "StudentId": "16",
+    "LectureId": "17",
+    "score": "2.64648352407221"
+  },
+  {
+    "StudentId": "95",
+    "LectureId": "7",
+    "score": "8.85629396087317"
+  },
+  {
+    "StudentId": "44",
+    "LectureId": "16",
+    "score": "2.67636848412285"
+  },
+  {
+    "StudentId": "28",
+    "LectureId": "12",
+    "score": "4.08186980946077"
+  },
+  {
+    "StudentId": "63",
+    "LectureId": "13",
+    "score": "15.3197083493321"
+  },
+  {
+    "StudentId": "41",
+    "LectureId": "24",
+    "score": "18.117234872243"
+  },
+  {
+    "StudentId": "69",
+    "LectureId": "13",
+    "score": "5.40855115205448"
+  },
+  {
+    "StudentId": "4",
+    "LectureId": "23",
+    "score": "19.2094461201734"
+  },
+  {
+    "StudentId": "27",
+    "LectureId": "25",
+    "score": "18.50128485472"
+  },
+  {
+    "StudentId": "74",
+    "LectureId": "26",
+    "score": "4.49152915528581"
+  },
+  {
+    "StudentId": "55",
+    "LectureId": "26",
+    "score": "16.4516737113947"
+  },
+  {
+    "StudentId": "86",
+    "LectureId": "14",
+    "score": "9.42186737685551"
+  },
+  {
+    "StudentId": "75",
+    "LectureId": "13",
+    "score": "17.050572391623"
+  },
+  {
+    "StudentId": "45",
+    "LectureId": "4",
+    "score": "18.3640970961955"
+  },
+  {
+    "StudentId": "63",
+    "LectureId": "2",
+    "score": "19.5393927928709"
+  },
+  {
+    "StudentId": "93",
+    "LectureId": "2",
+    "score": "16.6995205947661"
+  },
+  {
+    "StudentId": "52",
+    "LectureId": "27",
+    "score": "8.47231986535355"
+  },
+  {
+    "StudentId": "46",
+    "LectureId": "23",
+    "score": "6.79166775932148"
+  },
+  {
+    "StudentId": "17",
+    "LectureId": "10",
+    "score": "15.5813927378419"
+  },
+  {
+    "StudentId": "95",
+    "LectureId": "15",
+    "score": "5.27980052832505"
+  },
+  {
+    "StudentId": "95",
+    "LectureId": "26",
+    "score": "13.6313250808191"
+  },
+  {
+    "StudentId": "87",
+    "LectureId": "28",
+    "score": "15.1882635113729"
+  },
+  {
+    "StudentId": "86",
+    "LectureId": "17",
+    "score": "17.7309735173969"
+  },
+  {
+    "StudentId": "89",
+    "LectureId": "22",
+    "score": "11.5472052067272"
+  },
+  {
+    "StudentId": "2",
+    "LectureId": "6",
+    "score": "18.9688501809579"
+  },
+  {
+    "StudentId": "1",
+    "LectureId": "30",
+    "score": "19.008766590156"
+  },
+  {
+    "StudentId": "7",
+    "LectureId": "4",
+    "score": "17.1677340614459"
+  },
+  {
+    "StudentId": "31",
+    "LectureId": "12",
+    "score": "8.16375618808146"
+  },
+  {
+    "StudentId": "75",
+    "LectureId": "21",
+    "score": "11.0913565550425"
+  },
+  {
+    "StudentId": "35",
+    "LectureId": "7",
+    "score": "16.5960032821614"
+  },
+  {
+    "StudentId": "13",
+    "LectureId": "8",
+    "score": "12.9102987688548"
+  },
+  {
+    "StudentId": "87",
+    "LectureId": "19",
+    "score": "18.4629493418443"
+  },
+  {
+    "StudentId": "72",
+    "LectureId": "8",
+    "score": "11.8168037276793"
+  },
+  {
+    "StudentId": "53",
+    "LectureId": "10",
+    "score": "5.96923416804952"
+  },
+  {
+    "StudentId": "88",
+    "LectureId": "20",
+    "score": "11.7969994050437"
+  },
+  {
+    "StudentId": "4",
+    "LectureId": "19",
+    "score": "17.5100144136278"
+  },
+  {
+    "StudentId": "14",
+    "LectureId": "22",
+    "score": "19.2179393708789"
+  },
+  {
+    "StudentId": "12",
+    "LectureId": "15",
+    "score": "3.83010855867998"
+  },
+  {
+    "StudentId": "31",
+    "LectureId": "11",
+    "score": "16.7881507974994"
+  },
+  {
+    "StudentId": "38",
+    "LectureId": "3",
+    "score": "2.4590147144436"
+  },
+  {
+    "StudentId": "18",
+    "LectureId": "14",
+    "score": "8.09191354368437"
+  },
+  {
+    "StudentId": "79",
+    "LectureId": "19",
+    "score": "12.463764345955"
+  },
+  {
+    "StudentId": "40",
+    "LectureId": "19",
+    "score": "4.70085514276328"
+  },
+  {
+    "StudentId": "62",
+    "LectureId": "2",
+    "score": "11.5327846689768"
+  },
+  {
+    "StudentId": "34",
+    "LectureId": "4",
+    "score": "15.1646467359572"
+  },
+  {
+    "StudentId": "63",
+    "LectureId": "21",
+    "score": "6.26200743404311"
+  },
+  {
+    "StudentId": "3",
+    "LectureId": "23",
+    "score": "10.1934554642967"
+  },
+  {
+    "StudentId": "45",
+    "LectureId": "16",
+    "score": "11.8320237732642"
+  },
+  {
+    "StudentId": "51",
+    "LectureId": "5",
+    "score": "12.6105859380265"
+  },
+  {
+    "StudentId": "16",
+    "LectureId": "24",
+    "score": "14.5475500419492"
+  },
+  {
+    "StudentId": "8",
+    "LectureId": "16",
+    "score": "16.500820160611"
+  },
+  {
+    "StudentId": "26",
+    "LectureId": "16",
+    "score": "4.28506431462479"
+  },
+  {
+    "StudentId": "77",
+    "LectureId": "10",
+    "score": "8.28193724075422"
+  },
+  {
+    "StudentId": "28",
+    "LectureId": "30",
+    "score": "16.4936978851881"
+  },
+  {
+    "StudentId": "8",
+    "LectureId": "7",
+    "score": "1.05231321326099"
+  },
+  {
+    "StudentId": "9",
+    "LectureId": "14",
+    "score": "0.915319494397994"
+  },
+  {
+    "StudentId": "3",
+    "LectureId": "12",
+    "score": "3.51804954908697"
+  },
+  {
+    "StudentId": "41",
+    "LectureId": "29",
+    "score": "7.55993631927294"
+  },
+  {
+    "StudentId": "38",
+    "LectureId": "8",
+    "score": "1.11665425082513"
+  },
+  {
+    "StudentId": "86",
+    "LectureId": "26",
+    "score": "0.523831217793669"
+  },
+  {
+    "StudentId": "53",
+    "LectureId": "8",
+    "score": "8.13966942491926"
+  },
+  {
+    "StudentId": "4",
+    "LectureId": "10",
+    "score": "11.5390220752633"
+  },
+  {
+    "StudentId": "28",
+    "LectureId": "5",
+    "score": "10.9711681874335"
+  },
+  {
+    "StudentId": "71",
+    "LectureId": "21",
+    "score": "9.63716774882617"
+  },
+  {
+    "StudentId": "50",
+    "LectureId": "28",
+    "score": "9.87985171278932"
+  },
+  {
+    "StudentId": "31",
+    "LectureId": "22",
+    "score": "17.8258831169577"
+  },
+  {
+    "StudentId": "92",
+    "LectureId": "27",
+    "score": "18.0589686576552"
+  },
+  {
+    "StudentId": "88",
+    "LectureId": "22",
+    "score": "12.2311811774183"
+  },
+  {
+    "StudentId": "18",
+    "LectureId": "17",
+    "score": "10.8700114096841"
+  },
+  {
+    "StudentId": "3",
+    "LectureId": "27",
+    "score": "17.7163161885535"
+  },
+  {
+    "StudentId": "82",
+    "LectureId": "20",
+    "score": "4.2809793740888"
+  },
+  {
+    "StudentId": "42",
+    "LectureId": "13",
+    "score": "16.7067800786843"
+  },
+  {
+    "StudentId": "76",
+    "LectureId": "15",
+    "score": "12.9623984671023"
+  },
+  {
+    "StudentId": "37",
+    "LectureId": "5",
+    "score": "4.83804288685231"
+  },
+  {
+    "StudentId": "34",
+    "LectureId": "19",
+    "score": "4.1551564331889"
+  },
+  {
+    "StudentId": "40",
+    "LectureId": "16",
+    "score": "13.56481037874"
+  },
+  {
+    "StudentId": "50",
+    "LectureId": "10",
+    "score": "15.1674166294594"
+  },
+  {
+    "StudentId": "15",
+    "LectureId": "19",
+    "score": "12.6224703144387"
+  },
+  {
+    "StudentId": "3",
+    "LectureId": "24",
+    "score": "1.65718205024357"
+  },
+  {
+    "StudentId": "45",
+    "LectureId": "19",
+    "score": "8.51804044587446"
+  },
+  {
+    "StudentId": "4",
+    "LectureId": "7",
+    "score": "5.43105967968286"
+  },
+  {
+    "StudentId": "10",
+    "LectureId": "21",
+    "score": "17.047383977588"
+  },
+  {
+    "StudentId": "33",
+    "LectureId": "21",
+    "score": "10.4311146267835"
+  },
+  {
+    "StudentId": "66",
+    "LectureId": "22",
+    "score": "6.33364873534704"
+  },
+  {
+    "StudentId": "99",
+    "LectureId": "21",
+    "score": "15.1152017242812"
+  },
+  {
+    "StudentId": "61",
+    "LectureId": "21",
+    "score": "11.1750571058016"
+  },
+  {
+    "StudentId": "83",
+    "LectureId": "30",
+    "score": "18.6103638357531"
+  },
+  {
+    "StudentId": "8",
+    "LectureId": "18",
+    "score": "7.74480733216964"
+  },
+  {
+    "StudentId": "19",
+    "LectureId": "22",
+    "score": "2.20273214914032"
+  },
+  {
+    "StudentId": "20",
+    "LectureId": "8",
+    "score": "9.83168530409768"
+  },
+  {
+    "StudentId": "44",
+    "LectureId": "23",
+    "score": "16.4587977852015"
+  },
+  {
+    "StudentId": "6",
+    "LectureId": "7",
+    "score": "19.3070379403918"
+  },
+  {
+    "StudentId": "45",
+    "LectureId": "22",
+    "score": "13.7708768689869"
+  },
+  {
+    "StudentId": "81",
+    "LectureId": "10",
+    "score": "18.3594075615329"
+  },
+  {
+    "StudentId": "64",
+    "LectureId": "5",
+    "score": "11.0976689151012"
+  },
+  {
+    "StudentId": "73",
+    "LectureId": "9",
+    "score": "19.7719306977335"
+  },
+  {
+    "StudentId": "30",
+    "LectureId": "24",
+    "score": "4.96999935059343"
+  },
+  {
+    "StudentId": "60",
+    "LectureId": "5",
+    "score": "2.76971845224952"
+  },
+  {
+    "StudentId": "21",
+    "LectureId": "29",
+    "score": "13.8630281616296"
+  },
+  {
+    "StudentId": "84",
+    "LectureId": "4",
+    "score": "2.65232187726177"
+  },
+  {
+    "StudentId": "4",
+    "LectureId": "20",
+    "score": "3.35092939592476"
+  },
+  {
+    "StudentId": "89",
+    "LectureId": "19",
+    "score": "18.88914526761"
+  },
+  {
+    "StudentId": "79",
+    "LectureId": "23",
+    "score": "11.0762519445625"
+  },
+  {
+    "StudentId": "63",
+    "LectureId": "12",
+    "score": "2.19027271130601"
+  },
+  {
+    "StudentId": "77",
+    "LectureId": "3",
+    "score": "3.27613969346329"
+  },
+  {
+    "StudentId": "93",
+    "LectureId": "30",
+    "score": "14.3342396259933"
+  },
+  {
+    "StudentId": "58",
+    "LectureId": "27",
+    "score": "11.8621189593627"
+  },
+  {
+    "StudentId": "62",
+    "LectureId": "3",
+    "score": "10.5343696095675"
+  },
+  {
+    "StudentId": "1",
+    "LectureId": "29",
+    "score": "1.10302346437379"
+  },
+  {
+    "StudentId": "9",
+    "LectureId": "20",
+    "score": "17.6770850250856"
+  },
+  {
+    "StudentId": "85",
+    "LectureId": "12",
+    "score": "3.84609225524873"
+  },
+  {
+    "StudentId": "55",
+    "LectureId": "3",
+    "score": "2.83167554989069"
+  },
+  {
+    "StudentId": "85",
+    "LectureId": "16",
+    "score": "1.77694914665862"
+  },
+  {
+    "StudentId": "94",
+    "LectureId": "26",
+    "score": "14.0487312483828"
+  },
+  {
+    "StudentId": "92",
+    "LectureId": "26",
+    "score": "15.0034802416356"
+  },
+  {
+    "StudentId": "6",
+    "LectureId": "4",
+    "score": "5.74617998709259"
+  },
+  {
+    "StudentId": "24",
+    "LectureId": "2",
+    "score": "1.68831248427197"
+  },
+  {
+    "StudentId": "32",
+    "LectureId": "30",
+    "score": "2.14984233358402"
+  },
+  {
+    "StudentId": "19",
+    "LectureId": "16",
+    "score": "8.57579805263122"
+  },
+  {
+    "StudentId": "80",
+    "LectureId": "26",
+    "score": "15.5227035547247"
+  },
+  {
+    "StudentId": "75",
+    "LectureId": "23",
+    "score": "0.135257806691927"
+  },
+  {
+    "StudentId": "95",
+    "LectureId": "23",
+    "score": "11.1662122892059"
+  },
+  {
+    "StudentId": "23",
+    "LectureId": "2",
+    "score": "3.25547293725213"
+  },
+  {
+    "StudentId": "85",
+    "LectureId": "27",
+    "score": "12.7833346956332"
+  },
+  {
+    "StudentId": "9",
+    "LectureId": "14",
+    "score": "12.5153290259258"
+  },
+  {
+    "StudentId": "99",
+    "LectureId": "15",
+    "score": "10.8532471460538"
+  },
+  {
+    "StudentId": "38",
+    "LectureId": "29",
+    "score": "11.4548821190628"
+  },
+  {
+    "StudentId": "42",
+    "LectureId": "6",
+    "score": "4.06702365449957"
+  },
+  {
+    "StudentId": "5",
+    "LectureId": "9",
+    "score": "5.32021759558479"
+  },
+  {
+    "StudentId": "6",
+    "LectureId": "5",
+    "score": "15.4994937826411"
+  },
+  {
+    "StudentId": "44",
+    "LectureId": "28",
+    "score": "9.30159786450751"
+  },
+  {
+    "StudentId": "82",
+    "LectureId": "26",
+    "score": "5.31693586954704"
+  },
+  {
+    "StudentId": "86",
+    "LectureId": "20",
+    "score": "9.37180472462056"
+  },
+  {
+    "StudentId": "25",
+    "LectureId": "9",
+    "score": "10.3026113325276"
+  },
+  {
+    "StudentId": "22",
+    "LectureId": "6",
+    "score": "15.0146830705994"
+  },
+  {
+    "StudentId": "16",
+    "LectureId": "6",
+    "score": "15.0842230082882"
+  },
+  {
+    "StudentId": "77",
+    "LectureId": "5",
+    "score": "4.61282155877576"
+  },
+  {
+    "StudentId": "62",
+    "LectureId": "10",
+    "score": "14.9547764584212"
+  },
+  {
+    "StudentId": "64",
+    "LectureId": "5",
+    "score": "1.08492584204531"
+  },
+  {
+    "StudentId": "98",
+    "LectureId": "8",
+    "score": "0.530817127568096"
+  },
+  {
+    "StudentId": "64",
+    "LectureId": "9",
+    "score": "11.7750487638521"
+  },
+  {
+    "StudentId": "65",
+    "LectureId": "27",
+    "score": "16.7696937740639"
+  },
+  {
+    "StudentId": "71",
+    "LectureId": "29",
+    "score": "2.8998023224528"
+  },
+  {
+    "StudentId": "38",
+    "LectureId": "24",
+    "score": "6.29793292391018"
+  },
+  {
+    "StudentId": "16",
+    "LectureId": "12",
+    "score": "10.7075465003529"
+  },
+  {
+    "StudentId": "63",
+    "LectureId": "21",
+    "score": "13.5592173261378"
+  },
+  {
+    "StudentId": "91",
+    "LectureId": "17",
+    "score": "14.1447073380205"
+  },
+  {
+    "StudentId": "20",
+    "LectureId": "14",
+    "score": "6.99863915005635"
+  },
+  {
+    "StudentId": "13",
+    "LectureId": "8",
+    "score": "7.88200247235689"
+  },
+  {
+    "StudentId": "55",
+    "LectureId": "30",
+    "score": "8.90017338371844"
+  },
+  {
+    "StudentId": "30",
+    "LectureId": "14",
+    "score": "18.6749199119745"
+  },
+  {
+    "StudentId": "20",
+    "LectureId": "25",
+    "score": "11.8648032098379"
+  },
+  {
+    "StudentId": "76",
+    "LectureId": "24",
+    "score": "18.6091164791068"
+  },
+  {
+    "StudentId": "68",
+    "LectureId": "11",
+    "score": "17.9665983901204"
+  },
+  {
+    "StudentId": "58",
+    "LectureId": "2",
+    "score": "17.1234247768873"
+  },
+  {
+    "StudentId": "14",
+    "LectureId": "21",
+    "score": "11.2637545719108"
+  },
+  {
+    "StudentId": "63",
+    "LectureId": "5",
+    "score": "15.1542753587264"
+  },
+  {
+    "StudentId": "41",
+    "LectureId": "15",
+    "score": "15.1781656198102"
+  },
+  {
+    "StudentId": "94",
+    "LectureId": "20",
+    "score": "8.1924394844996"
+  },
+  {
+    "StudentId": "78",
+    "LectureId": "2",
+    "score": "7.08915840978229"
+  },
+  {
+    "StudentId": "95",
+    "LectureId": "27",
+    "score": "7.41390725104786"
+  },
+  {
+    "StudentId": "52",
+    "LectureId": "22",
+    "score": "6.79719972135369"
+  },
+  {
+    "StudentId": "33",
+    "LectureId": "13",
+    "score": "6.51305819000726"
+  },
+  {
+    "StudentId": "12",
+    "LectureId": "10",
+    "score": "15.6248497397755"
+  },
+  {
+    "StudentId": "86",
+    "LectureId": "20",
+    "score": "0.0918950783516723"
+  },
+  {
+    "StudentId": "5",
+    "LectureId": "14",
+    "score": "9.29518619985095"
+  },
+  {
+    "StudentId": "3",
+    "LectureId": "23",
+    "score": "13.053826134677"
+  },
+  {
+    "StudentId": "91",
+    "LectureId": "22",
+    "score": "3.55643415989188"
+  },
+  {
+    "StudentId": "67",
+    "LectureId": "24",
+    "score": "3.27643569897694"
+  },
+  {
+    "StudentId": "29",
+    "LectureId": "6",
+    "score": "14.9270448614503"
+  },
+  {
+    "StudentId": "79",
+    "LectureId": "30",
+    "score": "16.0078229261599"
+  },
+  {
+    "StudentId": "16",
+    "LectureId": "8",
+    "score": "1.64349354647263"
+  },
+  {
+    "StudentId": "87",
+    "LectureId": "24",
+    "score": "6.14113940025733"
+  },
+  {
+    "StudentId": "97",
+    "LectureId": "9",
+    "score": "0.534425808831316"
+  },
+  {
+    "StudentId": "41",
+    "LectureId": "4",
+    "score": "7.7642826623117"
+  },
+  {
+    "StudentId": "5",
+    "LectureId": "9",
+    "score": "17.6271744913548"
+  },
+  {
+    "StudentId": "22",
+    "LectureId": "23",
+    "score": "16.3445317309091"
+  },
+  {
+    "StudentId": "14",
+    "LectureId": "16",
+    "score": "6.70657941918195"
+  },
+  {
+    "StudentId": "89",
+    "LectureId": "5",
+    "score": "5.07097834817645"
+  },
+  {
+    "StudentId": "60",
+    "LectureId": "14",
+    "score": "2.79049638416176"
+  },
+  {
+    "StudentId": "69",
+    "LectureId": "2",
+    "score": "3.12805328617247"
+  },
+  {
+    "StudentId": "38",
+    "LectureId": "3",
+    "score": "11.4031638211585"
+  },
+  {
+    "StudentId": "73",
+    "LectureId": "20",
+    "score": "17.1965642297624"
+  },
+  {
+    "StudentId": "77",
+    "LectureId": "30",
+    "score": "17.5331398809949"
+  },
+  {
+    "StudentId": "10",
+    "LectureId": "7",
+    "score": "15.4094323010228"
+  },
+  {
+    "StudentId": "40",
+    "LectureId": "22",
+    "score": "10.3889725177497"
+  },
+  {
+    "StudentId": "45",
+    "LectureId": "19",
+    "score": "5.86222946544282"
+  },
+  {
+    "StudentId": "97",
+    "LectureId": "30",
+    "score": "18.9616393474683"
+  },
+  {
+    "StudentId": "95",
+    "LectureId": "19",
+    "score": "1.02970773215858"
+  },
+  {
+    "StudentId": "8",
+    "LectureId": "23",
+    "score": "4.1668137387218"
+  },
+  {
+    "StudentId": "17",
+    "LectureId": "14",
+    "score": "12.5051001596754"
+  },
+  {
+    "StudentId": "61",
+    "LectureId": "6",
+    "score": "18.9082029759456"
+  },
+  {
+    "StudentId": "24",
+    "LectureId": "24",
+    "score": "19.3995845217256"
+  },
+  {
+    "StudentId": "65",
+    "LectureId": "23",
+    "score": "7.97216841484055"
+  },
+  {
+    "StudentId": "51",
+    "LectureId": "24",
+    "score": "13.7603107768857"
+  },
+  {
+    "StudentId": "79",
+    "LectureId": "22",
+    "score": "8.76317209972216"
+  },
+  {
+    "StudentId": "69",
+    "LectureId": "28",
+    "score": "4.18199934818875"
+  },
+  {
+    "StudentId": "90",
+    "LectureId": "26",
+    "score": "9.34226026960754"
+  },
+  {
+    "StudentId": "94",
+    "LectureId": "20",
+    "score": "4.96013272784657"
+  },
+  {
+    "StudentId": "11",
+    "LectureId": "2",
+    "score": "15.306089800925"
+  },
+  {
+    "StudentId": "69",
+    "LectureId": "11",
+    "score": "12.2040906400439"
+  },
+  {
+    "StudentId": "99",
+    "LectureId": "17",
+    "score": "6.22639298077039"
+  },
+  {
+    "StudentId": "20",
+    "LectureId": "4",
+    "score": "10.284843947871"
+  },
+  {
+    "StudentId": "8",
+    "LectureId": "16",
+    "score": "7.45367990222465"
+  },
+  {
+    "StudentId": "1",
+    "LectureId": "26",
+    "score": "16.7098863565875"
+  },
+  {
+    "StudentId": "89",
+    "LectureId": "23",
+    "score": "19.3826623840177"
+  },
+  {
+    "StudentId": "31",
+    "LectureId": "20",
+    "score": "9.02599958238471"
+  },
+  {
+    "StudentId": "49",
+    "LectureId": "14",
+    "score": "17.5109168037357"
+  },
+  {
+    "StudentId": "2",
+    "LectureId": "12",
+    "score": "1.45416407867063"
+  },
+  {
+    "StudentId": "9",
+    "LectureId": "8",
+    "score": "15.1577160936583"
+  },
+  {
+    "StudentId": "60",
+    "LectureId": "2",
+    "score": "19.806429021436"
+  },
+  {
+    "StudentId": "33",
+    "LectureId": "6",
+    "score": "5.45961952789669"
+  },
+  {
+    "StudentId": "26",
+    "LectureId": "24",
+    "score": "19.2554045474415"
+  },
+  {
+    "StudentId": "19",
+    "LectureId": "3",
+    "score": "8.93962411998754"
+  },
+  {
+    "StudentId": "34",
+    "LectureId": "9",
+    "score": "17.3617122701191"
+  },
+  {
+    "StudentId": "9",
+    "LectureId": "10",
+    "score": "14.7690233489354"
+  },
+  {
+    "StudentId": "24",
+    "LectureId": "2",
+    "score": "5.70060194875142"
+  },
+  {
+    "StudentId": "42",
+    "LectureId": "28",
+    "score": "7.77544430446599"
+  },
+  {
+    "StudentId": "8",
+    "LectureId": "20",
+    "score": "2.88194648124368"
+  },
+  {
+    "StudentId": "77",
+    "LectureId": "7",
+    "score": "0.140050932364562"
+  },
+  {
+    "StudentId": "37",
+    "LectureId": "30",
+    "score": "15.7025873347663"
+  },
+  {
+    "StudentId": "48",
+    "LectureId": "19",
+    "score": "6.95606942938458"
+  }
+]

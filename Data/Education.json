@@ -1,0 +1,602 @@
+[
+  {
+    "Grade": "11.7021883608318",
+    "StudentId": "42",
+    "Code": "3",
+    "Name": "Web Developer"
+  },
+  {
+    "Grade": "19.1773588942258",
+    "StudentId": "73",
+    "Code": "11",
+    "Name": "Investment  Advisor"
+  },
+  {
+    "Grade": "3.23203274665029",
+    "StudentId": "96",
+    "Code": "10",
+    "Name": "HR Specialist"
+  },
+  {
+    "Grade": "18.5284304756338",
+    "StudentId": "14",
+    "Code": "11",
+    "Name": "Health Educator"
+  },
+  {
+    "Grade": "18.315994125938",
+    "StudentId": "9",
+    "Code": "3",
+    "Name": "Software Engineer"
+  },
+  {
+    "Grade": "19.6678407889175",
+    "StudentId": "66",
+    "Code": "4",
+    "Name": "Chef Manager"
+  },
+  {
+    "Grade": "0.036173808870918",
+    "StudentId": "38",
+    "Code": "4",
+    "Name": "Restaurant Manager"
+  },
+  {
+    "Grade": "10.3226506627736",
+    "StudentId": "7",
+    "Code": "6",
+    "Name": "Health Educator"
+  },
+  {
+    "Grade": "18.9468745584352",
+    "StudentId": "92",
+    "Code": "1",
+    "Name": "Project Manager"
+  },
+  {
+    "Grade": "0.78485329718555",
+    "StudentId": "38",
+    "Code": "3",
+    "Name": "Doctor"
+  },
+  {
+    "Grade": "4.34540132775223",
+    "StudentId": "83",
+    "Code": "11",
+    "Name": "Staffing Consultant"
+  },
+  {
+    "Grade": "6.27308583924225",
+    "StudentId": "39",
+    "Code": "2",
+    "Name": "Treasurer"
+  },
+  {
+    "Grade": "13.021447062968",
+    "StudentId": "23",
+    "Code": "8",
+    "Name": "Web Developer"
+  },
+  {
+    "Grade": "12.8185595617716",
+    "StudentId": "6",
+    "Code": "11",
+    "Name": "Steward"
+  },
+  {
+    "Grade": "16.4788737830142",
+    "StudentId": "10",
+    "Code": "2",
+    "Name": "Bellman"
+  },
+  {
+    "Grade": "14.0911872089334",
+    "StudentId": "84",
+    "Code": "10",
+    "Name": "Stockbroker"
+  },
+  {
+    "Grade": "0.172282881183681",
+    "StudentId": "36",
+    "Code": "1",
+    "Name": "Project Manager"
+  },
+  {
+    "Grade": "17.2261171402531",
+    "StudentId": "68",
+    "Code": "4",
+    "Name": "Loan Officer"
+  },
+  {
+    "Grade": "16.1341680661469",
+    "StudentId": "43",
+    "Code": "8",
+    "Name": "Front Desk Coordinator"
+  },
+  {
+    "Grade": "19.8615062203545",
+    "StudentId": "10",
+    "Code": "7",
+    "Name": "Inspector"
+  },
+  {
+    "Grade": "17.7633004294537",
+    "StudentId": "67",
+    "Code": "2",
+    "Name": "Baker"
+  },
+  {
+    "Grade": "6.51483580866588",
+    "StudentId": "82",
+    "Code": "9",
+    "Name": "Fabricator"
+  },
+  {
+    "Grade": "5.22932359773169",
+    "StudentId": "53",
+    "Code": "11",
+    "Name": "Laboratory Technician"
+  },
+  {
+    "Grade": "8.09581787842131",
+    "StudentId": "40",
+    "Code": "6",
+    "Name": "Insurance Broker"
+  },
+  {
+    "Grade": "18.458839202979",
+    "StudentId": "10",
+    "Code": "1",
+    "Name": "Food Technologist"
+  },
+  {
+    "Grade": "4.52397535532898",
+    "StudentId": "22",
+    "Code": "5",
+    "Name": "Design Engineer"
+  },
+  {
+    "Grade": "12.7125464452955",
+    "StudentId": "50",
+    "Code": "5",
+    "Name": "HR Specialist"
+  },
+  {
+    "Grade": "3.03757026793322",
+    "StudentId": "8",
+    "Code": "9",
+    "Name": "Cook"
+  },
+  {
+    "Grade": "18.1012419313664",
+    "StudentId": "27",
+    "Code": "3",
+    "Name": "Cook"
+  },
+  {
+    "Grade": "5.37856670160711",
+    "StudentId": "52",
+    "Code": "3",
+    "Name": "Investment  Advisor"
+  },
+  {
+    "Grade": "17.8704648520194",
+    "StudentId": "86",
+    "Code": "1",
+    "Name": "Global Logistics Supervisor"
+  },
+  {
+    "Grade": "9.418384474897",
+    "StudentId": "8",
+    "Code": "5",
+    "Name": "Paramedic"
+  },
+  {
+    "Grade": "19.5068931740275",
+    "StudentId": "62",
+    "Code": "9",
+    "Name": "Pharmacist"
+  },
+  {
+    "Grade": "10.7123192887345",
+    "StudentId": "62",
+    "Code": "10",
+    "Name": "Service Supervisor"
+  },
+  {
+    "Grade": "4.56977928502941",
+    "StudentId": "11",
+    "Code": "2",
+    "Name": "Associate Professor"
+  },
+  {
+    "Grade": "13.1938686143578",
+    "StudentId": "23",
+    "Code": "3",
+    "Name": "Laboratory Technician"
+  },
+  {
+    "Grade": "3.78716297065241",
+    "StudentId": "74",
+    "Code": "11",
+    "Name": "Healthcare Specialist"
+  },
+  {
+    "Grade": "4.83082839605903",
+    "StudentId": "53",
+    "Code": "10",
+    "Name": "Baker"
+  },
+  {
+    "Grade": "8.97670224075052",
+    "StudentId": "57",
+    "Code": "1",
+    "Name": "Auditor"
+  },
+  {
+    "Grade": "1.24379796639262",
+    "StudentId": "4",
+    "Code": "7",
+    "Name": "Chef Manager"
+  },
+  {
+    "Grade": "2.14152098453675",
+    "StudentId": "86",
+    "Code": "1",
+    "Name": "Project Manager"
+  },
+  {
+    "Grade": "13.7464574946773",
+    "StudentId": "71",
+    "Code": "4",
+    "Name": "Food Technologist"
+  },
+  {
+    "Grade": "10.1463340311993",
+    "StudentId": "86",
+    "Code": "7",
+    "Name": "Front Desk Coordinator"
+  },
+  {
+    "Grade": "1.12517657974976",
+    "StudentId": "21",
+    "Code": "9",
+    "Name": "Staffing Consultant"
+  },
+  {
+    "Grade": "8.81201851266065",
+    "StudentId": "55",
+    "Code": "7",
+    "Name": "Stockbroker"
+  },
+  {
+    "Grade": "12.1519428785667",
+    "StudentId": "97",
+    "Code": "1",
+    "Name": "Baker"
+  },
+  {
+    "Grade": "11.1521362425537",
+    "StudentId": "57",
+    "Code": "6",
+    "Name": "Health Educator"
+  },
+  {
+    "Grade": "17.7888562045008",
+    "StudentId": "24",
+    "Code": "10",
+    "Name": "Health Educator"
+  },
+  {
+    "Grade": "13.4754924874173",
+    "StudentId": "43",
+    "Code": "9",
+    "Name": "Designer"
+  },
+  {
+    "Grade": "12.4873583579843",
+    "StudentId": "15",
+    "Code": "3",
+    "Name": "Design Engineer"
+  },
+  {
+    "Grade": "9.41797295278775",
+    "StudentId": "41",
+    "Code": "6",
+    "Name": "Audiologist"
+  },
+  {
+    "Grade": "2.76952688012716",
+    "StudentId": "28",
+    "Code": "11",
+    "Name": "Physician"
+  },
+  {
+    "Grade": "3.33638808985073",
+    "StudentId": "84",
+    "Code": "6",
+    "Name": "Insurance Broker"
+  },
+  {
+    "Grade": "13.7341819930515",
+    "StudentId": "21",
+    "Code": "1",
+    "Name": "Loan Officer"
+  },
+  {
+    "Grade": "7.94585839144227",
+    "StudentId": "57",
+    "Code": "4",
+    "Name": "Design Engineer"
+  },
+  {
+    "Grade": "3.46565288652929",
+    "StudentId": "10",
+    "Code": "3",
+    "Name": "Chef Manager"
+  },
+  {
+    "Grade": "3.71165720453097",
+    "StudentId": "86",
+    "Code": "3",
+    "Name": "Steward"
+  },
+  {
+    "Grade": "13.6791571847532",
+    "StudentId": "39",
+    "Code": "2",
+    "Name": "Budget Analyst"
+  },
+  {
+    "Grade": "7.0280819549356",
+    "StudentId": "57",
+    "Code": "2",
+    "Name": "Retail Trainee"
+  },
+  {
+    "Grade": "11.5478078366946",
+    "StudentId": "8",
+    "Code": "9",
+    "Name": "Production Painter"
+  },
+  {
+    "Grade": "6.13957915601301",
+    "StudentId": "97",
+    "Code": "9",
+    "Name": "Investment  Advisor"
+  },
+  {
+    "Grade": "5.00011323625227",
+    "StudentId": "25",
+    "Code": "9",
+    "Name": "Clerk"
+  },
+  {
+    "Grade": "17.6760332890209",
+    "StudentId": "61",
+    "Code": "3",
+    "Name": "Steward"
+  },
+  {
+    "Grade": "0.774194508685821",
+    "StudentId": "48",
+    "Code": "6",
+    "Name": "Web Developer"
+  },
+  {
+    "Grade": "11.5289371560928",
+    "StudentId": "64",
+    "Code": "6",
+    "Name": "Service Supervisor"
+  },
+  {
+    "Grade": "11.3409779436611",
+    "StudentId": "26",
+    "Code": "2",
+    "Name": "Baker"
+  },
+  {
+    "Grade": "7.21394207757616",
+    "StudentId": "82",
+    "Code": "3",
+    "Name": "Designer"
+  },
+  {
+    "Grade": "8.13748677360708",
+    "StudentId": "1",
+    "Code": "7",
+    "Name": "Staffing Consultant"
+  },
+  {
+    "Grade": "8.59101569400682",
+    "StudentId": "34",
+    "Code": "4",
+    "Name": "Dentist"
+  },
+  {
+    "Grade": "17.836140411364",
+    "StudentId": "99",
+    "Code": "7",
+    "Name": "Clerk"
+  },
+  {
+    "Grade": "0.695676672596334",
+    "StudentId": "52",
+    "Code": "6",
+    "Name": "Design Engineer"
+  },
+  {
+    "Grade": "3.76374763658445",
+    "StudentId": "60",
+    "Code": "7",
+    "Name": "Chef Manager"
+  },
+  {
+    "Grade": "1.82678092216457",
+    "StudentId": "83",
+    "Code": "7",
+    "Name": "Clerk"
+  },
+  {
+    "Grade": "5.18930580475801",
+    "StudentId": "17",
+    "Code": "8",
+    "Name": "Insurance Broker"
+  },
+  {
+    "Grade": "13.6919923474509",
+    "StudentId": "58",
+    "Code": "7",
+    "Name": "Web Developer"
+  },
+  {
+    "Grade": "0.962091729492923",
+    "StudentId": "61",
+    "Code": "10",
+    "Name": "Accountant"
+  },
+  {
+    "Grade": "1.99108318192469",
+    "StudentId": "11",
+    "Code": "5",
+    "Name": "Bookkeeper"
+  },
+  {
+    "Grade": "15.7831208504658",
+    "StudentId": "73",
+    "Code": "4",
+    "Name": "Design Engineer"
+  },
+  {
+    "Grade": "16.5676851815394",
+    "StudentId": "71",
+    "Code": "5",
+    "Name": "Cashier"
+  },
+  {
+    "Grade": "15.837977089378",
+    "StudentId": "64",
+    "Code": "8",
+    "Name": "Staffing Consultant"
+  },
+  {
+    "Grade": "5.64242306148746",
+    "StudentId": "99",
+    "Code": "7",
+    "Name": "Inspector"
+  },
+  {
+    "Grade": "3.36777594376718",
+    "StudentId": "43",
+    "Code": "6",
+    "Name": "Associate Professor"
+  },
+  {
+    "Grade": "14.9849363802862",
+    "StudentId": "80",
+    "Code": "9",
+    "Name": "Executive Director"
+  },
+  {
+    "Grade": "14.48309667105",
+    "StudentId": "3",
+    "Code": "1",
+    "Name": "Service Supervisor"
+  },
+  {
+    "Grade": "18.8732695290229",
+    "StudentId": "38",
+    "Code": "9",
+    "Name": "Business Broker"
+  },
+  {
+    "Grade": "0.191992972601202",
+    "StudentId": "32",
+    "Code": "11",
+    "Name": "Web Developer"
+  },
+  {
+    "Grade": "7.00181349925781",
+    "StudentId": "42",
+    "Code": "6",
+    "Name": "HR Coordinator"
+  },
+  {
+    "Grade": "12.7456515067004",
+    "StudentId": "36",
+    "Code": "5",
+    "Name": "CNC Operator"
+  },
+  {
+    "Grade": "19.0848258310393",
+    "StudentId": "1",
+    "Code": "10",
+    "Name": "Accountant"
+  },
+  {
+    "Grade": "15.7141618201109",
+    "StudentId": "81",
+    "Code": "6",
+    "Name": "Banker"
+  },
+  {
+    "Grade": "19.7302932472575",
+    "StudentId": "62",
+    "Code": "6",
+    "Name": "Designer"
+  },
+  {
+    "Grade": "5.44547553520905",
+    "StudentId": "60",
+    "Code": "7",
+    "Name": "Mobile Developer"
+  },
+  {
+    "Grade": "14.4725793751295",
+    "StudentId": "81",
+    "Code": "8",
+    "Name": "HR Coordinator"
+  },
+  {
+    "Grade": "6.00896546896965",
+    "StudentId": "80",
+    "Code": "8",
+    "Name": "Executive Director"
+  },
+  {
+    "Grade": "17.1652529249737",
+    "StudentId": "27",
+    "Code": "4",
+    "Name": "Project Manager"
+  },
+  {
+    "Grade": "7.93649337763735",
+    "StudentId": "40",
+    "Code": "1",
+    "Name": "Staffing Consultant"
+  },
+  {
+    "Grade": "10.0103631094146",
+    "StudentId": "5",
+    "Code": "7",
+    "Name": "Lecturer"
+  },
+  {
+    "Grade": "15.4572691556333",
+    "StudentId": "70",
+    "Code": "1",
+    "Name": "Steward"
+  },
+  {
+    "Grade": "17.8593421368205",
+    "StudentId": "4",
+    "Code": "5",
+    "Name": "Designer"
+  },
+  {
+    "Grade": "5.38931458414966",
+    "StudentId": "15",
+    "Code": "8",
+    "Name": "Pharmacist"
+  }
+]

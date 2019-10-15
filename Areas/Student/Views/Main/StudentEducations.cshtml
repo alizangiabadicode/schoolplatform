@@ -1,0 +1,26 @@
+﻿@using Microsoft.AspNetCore.Http;
+@inject IHttpContextAccessor httpcontext;
+
+@{
+    ViewData["Title"] = "StudentEducations";
+}
+@using myschool.Dtos
+@using myschool.Models
+@model List<EducationDto>
+<h1>StudentEducations</h1>
+
+@foreach (EducationDto e in Model)
+{
+    <div class="card" style="width: 18rem;">
+        <div class="card-body">
+            <a asp-area="Student" asp-controller="Main" asp-action="EducationGrades" asp-route-educationId="@e.Id" class="card-link">@e.Name</a>
+            <h6 class="card-subtitle mb-2 text-muted">معدل = @e.Grade</h6>
+            @foreach (LectureDto l in e.Lectures)
+            {
+                <p class="card-text">@l.Name (@l.Factor)</p>
+            }
+            <a href="#" class="card-link">Card link</a>
+            <a href="#" class="card-link">Another link</a>
+        </div>
+    </div>
+}

@@ -1,0 +1,17 @@
+﻿@model myschool.Models.Student
+@{
+    ViewData["Title"] = "Index";
+}
+
+<h1>Index</h1>
+
+<p>name : @Model.FirstName</p>
+<p>name : @Model.LastName</p>
+<div class="card" style="width: 18rem;">
+    <img src="@Model.PhotoUrl" class="card-img-top" alt="student image">
+    <div class="card-body">
+        <h5 class="card-title">dear @Model.FirstName</h5>
+        <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
+        <a href="#" class="btn btn-primary">Go somewhere</a>
+    </div>
+</div>

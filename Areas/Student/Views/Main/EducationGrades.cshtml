@@ -1,0 +1,26 @@
+﻿
+@{
+    ViewData["Title"] = "EducationGrades";
+}
+@using myschool.Models
+@model List<Grade>
+<h1>EducationGrades</h1>
+<table class="table table-bordered table-hover">
+    <thead>
+        <tr>
+            <th scope="col">نمره</th>
+            <th scope="col">ضریب</th>
+            <th scope="col">نام درس</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (Grade g in Model)
+        {
+            <tr>
+                <td>@g.score</td>
+                <td>@g.Lecture.Factor</td>
+                <td>@g.Lecture.Name</td>
+            </tr>
+        }
+    </tbody>
+</table>
