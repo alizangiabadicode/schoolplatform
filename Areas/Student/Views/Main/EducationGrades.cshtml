@@ -8,18 +8,18 @@
 <table class="table table-bordered table-hover">
     <thead>
         <tr>
-            <th scope="col">نمره</th>
-            <th scope="col">ضریب</th>
             <th scope="col">نام درس</th>
+            <th scope="col">ضریب</th>
+            <th scope="col">نمره</th>
         </tr>
     </thead>
     <tbody>
         @foreach (Grade g in Model)
         {
             <tr>
-                <td>@g.score</td>
-                <td>@g.Lecture.Factor</td>
                 <td>@g.Lecture.Name</td>
+                <td>@g.Lecture.Factor</td>
+                <td>@g.score</td>
             </tr>
         }
     </tbody>

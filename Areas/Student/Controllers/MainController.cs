@@ -78,7 +78,7 @@ namespace myschool.Areas.Student.Controllers
             List<int> lectureIds = (await Sturepo.StudentEducation(educationId)).Lectures.Select(e => e.Id).ToList();
             var stuid = int.Parse(HttpContext.Request.Cookies["id"]);
             Logger.LogWarning($"stuid = {stuid}");
-            var education = await Sturepo.StudentGrade(educationId, lectureIds);
+            var education = await Sturepo.StudentGrade(stuid, lectureIds);
             return View(education);
         }
 
