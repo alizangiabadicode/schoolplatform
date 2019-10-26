@@ -18,5 +18,6 @@ namespace myschool.Dtos
         public string StuCode { get; set; }
         public string PhotoUrl { get; set; }
         public ICollection<Education> Educations { get; set; }
+        public ICollection<Schedule> Schedules { get; set; }
     }
 }

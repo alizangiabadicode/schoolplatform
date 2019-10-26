@@ -10,7 +10,7 @@ namespace myschool.Models
     {
         public int Id { get; set; }
         public string Name { get; set; }
-        //public int code { get; set; }
+        public int code { get; set; }
         //public double Grade { get; set; }
         //public int StudentId { get; set; }
         //public Student Student { get; set; }

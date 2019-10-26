@@ -4,9 +4,12 @@
 }
 
 <h1>Index</h1>
-
+@{ 
+    string hsn = "koskhol";
+}
 <p>name : @Model.FirstName</p>
 <p>name : @Model.LastName</p>
+@*<p>hsn : @hsn</p>*@
 <div class="card" style="width: 18rem;">
     <img src="@Model.PhotoUrl" class="card-img-top" alt="student image">
     <div class="card-body">

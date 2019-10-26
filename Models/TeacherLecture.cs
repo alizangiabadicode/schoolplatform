@@ -5,13 +5,13 @@ using System.Threading.Tasks;
 
 namespace myschool.Models
 {
-    public class EducStu
+    public class TeacherLecture
     {
         public int Id { get; set; }
-        public int EducationId { get; set; }
-        public int StudentId { get; set; }
-        public Education Education { get; set; }
-        public Student Student { get; set; }
+        public int TeacherId { get; set; }
+        public Teacher Teacher { get; set; }
+        public int LectureId { get; set; }
+        public Lecture Lecture { get; set; }
         public int Year { get; set; }
     }
 }

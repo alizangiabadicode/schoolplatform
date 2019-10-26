@@ -20,5 +20,7 @@ namespace myschool.Models
         //public ICollection<Education> Educations { get; set; }
         public string PhotoUrl { get; set; }
         //public ICollection<Lecture> Lectures { get; set; }
+        public int SchoolId { get; set; }
+        public School School { get; set; }
     }
 }

@@ -19,7 +19,7 @@ namespace myschool.Data
 
         Task<List<Education>> StudentEducations(int id);
 
-        Task<List<EducStu>> EduStus(int id);
+        Task<List<EducStu>> EduStus(int studentId);
         Task<Education> StudentEducation(int id);
         Task<List<Grade>> StudentGrade(int stuid, List<int> lecid);
     }

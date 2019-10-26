@@ -50,7 +50,9 @@ namespace myschool.Data
 
         public async Task<List<Education>> StudentEducations(int id)
         {
+            //اول تمام مقاطعی که دانش اموز دارد راجمع میکنیم
             List<int> educationId = Context.EducStus.Where(e => e.StudentId == id).Select(e => e.EducationId).ToList();
+            
             List<Education> educationtoreturn = new List<Education>();
             var e = Context.Educations.Include(e => e.Lectures);
             foreach (int i in educationId)
@@ -65,9 +67,9 @@ namespace myschool.Data
             return educationtoreturn;
         }
 
-        public async Task<List<EducStu>> EduStus(int id)
+        public async Task<List<EducStu>> EduStus(int studentId)
         {
-            List<EducStu> listtoreturn = await Context.EducStus.Where(e => e.StudentId == id).ToListAsync();
+            List<EducStu> listtoreturn = await Context.EducStus.Where(e => e.StudentId == studentId).ToListAsync();
             return listtoreturn;
         }
 

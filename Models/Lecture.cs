@@ -12,6 +12,9 @@ namespace myschool.Models
         public int EducationId { get; set; }
         public Education Education { get; set; }
         public int Factor { get; set; }
+        //public int TeacherId { get; set; }
+        
+        //public Teacher Teacher { get; set; }
         //public double Grade { get; set; }
     }
 }

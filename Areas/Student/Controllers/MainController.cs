@@ -45,6 +45,18 @@ namespace myschool.Areas.Student.Controllers
             ViewBag.fname = studentDto.FirstName;
             ViewBag.lname = studentDto.LastName;
             ViewBag.stuid = student.Id;
+
+            List<Education> edustus = await Sturepo.StudentEducations(1);
+            Education maximum = edustus.First();
+            foreach (Education e in edustus)
+            {
+                if(maximum.code < e.code)
+                {
+                    maximum = e;
+                }
+            }
+
+            
             return View(student);
         }
 
