@@ -13,7 +13,8 @@ namespace myschool.Models
             global::System.Int32 studentId,
             Education education,
             Student student,
-            global::System.Int32 year)
+            global::System.Int32 year,
+            int classid)
         {
             Id = id;
             EducationId = educationId;
@@ -21,6 +22,7 @@ namespace myschool.Models
             Education = education;
             Student = student;
             Year = year;
+            ClassId = classid;
         }
 
         public int Id { get; set; }
@@ -29,5 +31,6 @@ namespace myschool.Models
         public Education Education { get; set; }
         public Student Student { get; set; }
         public int Year { get; set; }//needed beacuse a student may be in one education for two  years
+        public int ClassId { get; set; }
     }
 }
