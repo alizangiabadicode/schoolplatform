@@ -10,13 +10,15 @@ namespace myschool.Models
     public class Schedule
     {
         public int Id { get; set; }
-        public int SchoolId { get; set; }
-        public School School { get; set; }
+        //public int SchoolId { get; set; }
+        //public School School { get; set; }
+        public int ClassId { get; set; }
+        public Class Class { get; set; }
         //public int EducationId { get; set; }
         //public ICollection<Education> Educations { get; set; }
         public int LectureId { get; set; }
         public Lecture Lecture { get; set; }
-        public int TimeId { get; set; }
+        public int TimeId { get; set; } // it contains time intervals example 7:30 - 09:00
         [ForeignKey("TimeId")]
         public Time Time { get; set; }
         [Range(0, 6)]

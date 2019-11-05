@@ -3,46 +3,23 @@ using System;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.EntityFrameworkCore.Infrastructure;
 using Microsoft.EntityFrameworkCore.Metadata;
+using Microsoft.EntityFrameworkCore.Migrations;
 using Microsoft.EntityFrameworkCore.Storage.ValueConversion;
 using myschool.Data;
 
 namespace myschool.Migrations
 {
     [DbContext(typeof(DataContext))]
-    partial class DataContextModelSnapshot : ModelSnapshot
+    [Migration("20191029175627_modifying_edustu_add_year")]
+    partial class modifying_edustu_add_year
     {
-        protected override void BuildModel(ModelBuilder modelBuilder)
+        protected override void BuildTargetModel(ModelBuilder modelBuilder)
         {
 #pragma warning disable 612, 618
             modelBuilder
                 .HasAnnotation("ProductVersion", "3.0.0")
                 .HasAnnotation("Relational:MaxIdentifierLength", 128)
                 .HasAnnotation("SqlServer:ValueGenerationStrategy", SqlServerValueGenerationStrategy.IdentityColumn);
-
-            modelBuilder.Entity("myschool.Models.Class", b =>
-                {
-                    b.Property<int>("Id")
-                        .ValueGeneratedOnAdd()
-                        .HasColumnType("int")
-                        .HasAnnotation("SqlServer:ValueGenerationStrategy", SqlServerValueGenerationStrategy.IdentityColumn);
-
-                    b.Property<int>("EducationId")
-                        .HasColumnType("int");
-
-                    b.Property<string>("Name")
-                        .HasColumnType("nvarchar(max)");
-
-                    b.Property<int>("SchoolId")
-                        .HasColumnType("int");
-
-                    b.HasKey("Id");
-
-                    b.HasIndex("EducationId");
-
-                    b.HasIndex("SchoolId");
-
-                    b.ToTable("Class");
-                });
 
             modelBuilder.Entity("myschool.Models.EducStu", b =>
                 {
@@ -53,9 +30,6 @@ namespace myschool.Migrations
 
                     b.Property<int>("EducationId")
                         .HasColumnType("int");
-
-                    b.Property<decimal>("Payed")
-                        .HasColumnType("decimal(18,2)");
 
                     b.Property<int>("StudentId")
                         .HasColumnType("int");
@@ -100,14 +74,11 @@ namespace myschool.Migrations
                     b.Property<int>("LectureId")
                         .HasColumnType("int");
 
-                    b.Property<double>("Score")
-                        .HasColumnType("float");
-
                     b.Property<int>("StudentId")
                         .HasColumnType("int");
 
-                    b.Property<int>("Year")
-                        .HasColumnType("int");
+                    b.Property<double>("score")
+                        .HasColumnType("float");
 
                     b.HasKey("Id");
 
@@ -141,27 +112,6 @@ namespace myschool.Migrations
                     b.ToTable("Lectures");
                 });
 
-            modelBuilder.Entity("myschool.Models.Payment", b =>
-                {
-                    b.Property<int>("Id")
-                        .ValueGeneratedOnAdd()
-                        .HasColumnType("int")
-                        .HasAnnotation("SqlServer:ValueGenerationStrategy", SqlServerValueGenerationStrategy.IdentityColumn);
-
-                    b.Property<decimal>("Cash")
-                        .HasColumnType("decimal(18,2)");
-
-                    b.Property<string>("Name")
-                        .HasColumnType("nvarchar(max)");
-
-                    b.Property<int>("Year")
-                        .HasColumnType("int");
-
-                    b.HasKey("Id");
-
-                    b.ToTable("Payment");
-                });
-
             modelBuilder.Entity("myschool.Models.Schedule", b =>
                 {
                     b.Property<int>("Id")
@@ -169,13 +119,13 @@ namespace myschool.Migrations
                         .HasColumnType("int")
                         .HasAnnotation("SqlServer:ValueGenerationStrategy", SqlServerValueGenerationStrategy.IdentityColumn);
 
-                    b.Property<int>("ClassId")
-                        .HasColumnType("int");
-
                     b.Property<int>("DayOfWeek")
                         .HasColumnType("int");
 
                     b.Property<int>("LectureId")
+                        .HasColumnType("int");
+
+                    b.Property<int>("SchoolId")
                         .HasColumnType("int");
 
                     b.Property<int>("TimeId")
@@ -186,9 +136,9 @@ namespace myschool.Migrations
 
                     b.HasKey("Id");
 
-                    b.HasIndex("ClassId");
-
                     b.HasIndex("LectureId");
+
+                    b.HasIndex("SchoolId");
 
                     b.HasIndex("TimeId");
 
@@ -226,17 +176,12 @@ namespace myschool.Migrations
                     b.Property<int>("EducationId")
                         .HasColumnType("int");
 
-                    b.Property<int>("PaymentId")
-                        .HasColumnType("int");
-
                     b.Property<int>("SchoolId")
                         .HasColumnType("int");
 
                     b.HasKey("Id");
 
                     b.HasIndex("EducationId");
-
-                    b.HasIndex("PaymentId");
 
                     b.HasIndex("SchoolId");
 
@@ -294,7 +239,10 @@ namespace myschool.Migrations
                         .HasColumnType("int")
                         .HasAnnotation("SqlServer:ValueGenerationStrategy", SqlServerValueGenerationStrategy.IdentityColumn);
 
-                    b.Property<string>("Name")
+                    b.Property<string>("FirstName")
+                        .HasColumnType("nvarchar(max)");
+
+                    b.Property<string>("LastName")
                         .HasColumnType("nvarchar(max)");
 
                     b.HasKey("Id");
@@ -309,9 +257,6 @@ namespace myschool.Migrations
                         .HasColumnType("int")
                         .HasAnnotation("SqlServer:ValueGenerationStrategy", SqlServerValueGenerationStrategy.IdentityColumn);
 
-                    b.Property<int>("ClassId")
-                        .HasColumnType("int");
-
                     b.Property<int>("LectureId")
                         .HasColumnType("int");
 
@@ -322,8 +267,6 @@ namespace myschool.Migrations
                         .HasColumnType("int");
 
                     b.HasKey("Id");
-
-                    b.HasIndex("ClassId");
 
                     b.HasIndex("LectureId");
 
@@ -372,21 +315,6 @@ namespace myschool.Migrations
                     b.ToTable("Times");
                 });
 
-            modelBuilder.Entity("myschool.Models.Class", b =>
-                {
-                    b.HasOne("myschool.Models.Education", "Education")
-                        .WithMany()
-                        .HasForeignKey("EducationId")
-                        .OnDelete(DeleteBehavior.Cascade)
-                        .IsRequired();
-
-                    b.HasOne("myschool.Models.School", "School")
-                        .WithMany()
-                        .HasForeignKey("SchoolId")
-                        .OnDelete(DeleteBehavior.Cascade)
-                        .IsRequired();
-                });
-
             modelBuilder.Entity("myschool.Models.EducStu", b =>
                 {
                     b.HasOne("myschool.Models.Education", "Education")
@@ -428,15 +356,15 @@ namespace myschool.Migrations
 
             modelBuilder.Entity("myschool.Models.Schedule", b =>
                 {
-                    b.HasOne("myschool.Models.Class", "Class")
-                        .WithMany()
-                        .HasForeignKey("ClassId")
-                        .OnDelete(DeleteBehavior.Cascade)
-                        .IsRequired();
-
                     b.HasOne("myschool.Models.Lecture", "Lecture")
                         .WithMany()
                         .HasForeignKey("LectureId")
+                        .OnDelete(DeleteBehavior.Cascade)
+                        .IsRequired();
+
+                    b.HasOne("myschool.Models.School", "School")
+                        .WithMany("Schedules")
+                        .HasForeignKey("SchoolId")
                         .OnDelete(DeleteBehavior.Cascade)
                         .IsRequired();
 
@@ -455,12 +383,6 @@ namespace myschool.Migrations
                         .OnDelete(DeleteBehavior.Cascade)
                         .IsRequired();
 
-                    b.HasOne("myschool.Models.Payment", "Payment")
-                        .WithMany()
-                        .HasForeignKey("PaymentId")
-                        .OnDelete(DeleteBehavior.Cascade)
-                        .IsRequired();
-
                     b.HasOne("myschool.Models.School", "School")
                         .WithMany()
                         .HasForeignKey("SchoolId")
@@ -471,7 +393,7 @@ namespace myschool.Migrations
             modelBuilder.Entity("myschool.Models.Student", b =>
                 {
                     b.HasOne("myschool.Models.School", "School")
-                        .WithMany()
+                        .WithMany("Students")
                         .HasForeignKey("SchoolId")
                         .OnDelete(DeleteBehavior.Cascade)
                         .IsRequired();
@@ -479,12 +401,6 @@ namespace myschool.Migrations
 
             modelBuilder.Entity("myschool.Models.TeacherLecture", b =>
                 {
-                    b.HasOne("myschool.Models.Class", "Class")
-                        .WithMany()
-                        .HasForeignKey("ClassId")
-                        .OnDelete(DeleteBehavior.Cascade)
-                        .IsRequired();
-
                     b.HasOne("myschool.Models.Lecture", "Lecture")
                         .WithMany()
                         .HasForeignKey("LectureId")

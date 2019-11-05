@@ -5,9 +5,9 @@ using System.Threading.Tasks;
 
 namespace myschool.Models
 {
-    public class Manager
+    public class Class
     {
-        //public Manager(global::System.String name, global::System.Int32 id, global::System.Int32 schoolId)
+        //public Class(global::System.String name, global::System.Int32 id, global::System.Int32 schoolId)
         //{
         //    Name = name;
         //    Id = id;
@@ -17,6 +17,8 @@ namespace myschool.Models
         public string Name { get; set; }
         public int Id { get; set; }
         public int SchoolId { get; set; }
-        public School SChool { get; set; }
+        public School School { get; set; }
+        public int EducationId { get; set; }
+        public Education Education { get; set; }
     }
 }

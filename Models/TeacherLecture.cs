@@ -12,6 +12,8 @@ namespace myschool.Models
         public Teacher Teacher { get; set; }
         public int LectureId { get; set; }
         public Lecture Lecture { get; set; }
+        public int ClassId { get; set; }
+        public Class Class { get; set; }
         public int Year { get; set; }
     }
 }
