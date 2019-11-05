@@ -50,21 +50,21 @@ namespace myschool.Data
 
         public async Task<List<Education>> StudentEducations(int id)
         {
-            //اول تمام مقاطعی که دانش اموز دارد راجمع میکنیم
-            List<int> educationId = Context.EducStus.Where(e => e.StudentId == id).Select(e => e.EducationId).ToList();
+            ////اول تمام مقاطعی که دانش اموز دارد راجمع میکنیم
+            //List<int> educationId = Context.EducStus.Where(e => e.StudentId == id).Select(e => e.EducationId).ToList();
             
-            List<Education> educationtoreturn = new List<Education>();
-            var e = Context.Educations.Include(e => e.Lectures);
-            foreach (int i in educationId)
-            {
-                Education edu = await e.FirstOrDefaultAsync(e => e.Id == i);
-                if (edu != null)
-                {
-                    educationtoreturn.Add(edu);
-                }
-            }
+            //List<Education> educationtoreturn = new List<Education>();
+            //var e = Context.Educations.Include(e => e.Lectures);
+            //foreach (int i in educationId)
+            //{
+            //    Education edu = await e.FirstOrDefaultAsync(e => e.Id == i);
+            //    if (edu != null)
+            //    {
+            //        educationtoreturn.Add(edu);
+            //    }
+            //}
 
-            return educationtoreturn;
+            return new List<Education>();
         }
 
         public async Task<List<EducStu>> EduStus(int studentId)

@@ -5,11 +5,9 @@ using System.Threading.Tasks;
 
 namespace myschool.Models
 {
-    public class SchoolEducations
+    public class EducationPayment
     {
         public int Id { get; set; }
-        public int SchoolId { get; set; }
-        public School School { get; set; }
         public int EducationId { get; set; }
         public Education Education { get; set; }
         public int PaymentId { get; set; }

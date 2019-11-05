@@ -11,7 +11,7 @@ namespace myschool.Models
         public string Name { get; set; }
         public string Address { get; set; }
         public string PhoneNumber { get; set; }
-        public ICollection<Student> Students { get; set; }
-        public ICollection<Schedule> Schedules { get; set; }
+        //public ICollection<Student> Students { get; set; }
+        //public ICollection<Schedule> Schedules { get; set; }
     }
 }
