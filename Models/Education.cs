@@ -8,6 +8,18 @@ namespace myschool.Models
 {
     public class Education
     {
+        public Education(
+            global::System.Int32 id,
+            global::System.String name,
+            ICollection<Lecture> lectures,
+            global::System.UInt64 cost)
+        {
+            Id = id;
+            Name = name;
+            Lectures = lectures;
+            Cost = cost;
+        }
+
         public int Id { get; set; }
         public string Name { get; set; }
         public int code { get; set; }
